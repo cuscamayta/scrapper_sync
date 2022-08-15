@@ -34,6 +34,25 @@
         </ul>
       </div>
     </li>
+
+    <li class="nav-item" [ngClass]="{ 'active' : madrid.isActive || catalana.isActive || valenciana.isActive || andorrana.isActive || gallega.isActive || santander.isActive }">
+      <a class="nav-link" (click)="uiFederationsCollapsed = !uiFederationsCollapsed" [attr.aria-expanded]="uiFederationsCollapsed" aria-controls="ui-federations">
+        <i class="ti-view-list menu-icon"></i>
+        <span class="menu-title">Federaciones</span>
+        <i class="menu-arrow"></i>
+      </a>
+      <div class="collapse" id="ui-federations" [ngbCollapse]="!uiFederationsCollapsed">
+        <ul class="nav flex-column sub-menu">
+          <li class="nav-item"> <a class="nav-link" routerLink="main/federations/madrid" routerLinkActive="active" #madrid="routerLinkActive">Madrid</a></li>
+          <li class="nav-item"> <a class="nav-link" routerLink="main/federations/catalana" routerLinkActive="active" #catalana="routerLinkActive">Catalana</a></li>
+          <li class="nav-item"> <a class="nav-link" routerLink="main/federations/valenciana" routerLinkActive="active" #valenciana="routerLinkActive">Valenciana</a></li>
+          <li class="nav-item"> <a class="nav-link" routerLink="main/federations/andorrana" routerLinkActive="active" #andorrana="routerLinkActive">Andorrana</a></li>
+          <li class="nav-item"> <a class="nav-link" routerLink="main/federations/gallega" routerLinkActive="active" #gallega="routerLinkActive">Gallega</a></li>
+          <li class="nav-item"> <a class="nav-link" routerLink="main/federations/santander" routerLinkActive="active" #santander="routerLinkActive">Santander</a></li>
+        </ul>
+      </div>
+    </li>
+
     <li class="nav-item" [ngClass]="{ 'active' : dragula.isActive || clipboard.isActive || contextMenu.isActive || slider.isActive || carousel.isActive || loaders.isActive }">
       <a class="nav-link" (click)="uiAdvancedCollapsed = !uiAdvancedCollapsed" [attr.aria-expanded]="uiAdvancedCollapsed" aria-controls="ui-advanced">
         <i class="ti-view-list menu-icon"></i>

@@ -62,6 +62,8 @@ import { DocumentationComponent } from './documentation/documentation.component'
 import { ValidationComponent } from './forms/validation/validation.component';
 import { AppComponent } from './app.component';
 
+// import { FederationModule } from './modules/federations/federations.module';
+
 const routes: Routes = [
   { path: 'dashboard', component: DashboardComponent },
   { path: 'widgets', component: WidgetsComponent },
@@ -146,100 +148,21 @@ const routes: Routes = [
     path: 'main',    
     children: [
       {
+        path: 'federations',
+        loadChildren: './modules/federations/federations.module#FederationsModule'
+      }
+    ]
+  },
+  {
+    path: 'main',    
+    children: [
+      {
         path: 'pointsattention',
         loadChildren: './modules/points-attention/points-attention.module#PointsAttentionModule'
       }
     ]
   },
   { path: '**', redirectTo: '/error-404'}
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'cover',
-  //       loadChildren: '../app/modules/cover/cover.module#CoverModule',
-  //       canActivate: [AuthGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'projects',
-  //       loadChildren: '../app/modules/projects/projects.module#ProjectsModule',
-  //       canActivate: [AuthGuard, UserTypeGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'organization',
-  //       loadChildren: '../app/modules/organization/organization.module#OrganizationModule',
-  //       canActivate: [AuthGuard, UserTypeGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'catalogs',
-  //       loadChildren: '../app/modules/catalogs/catalogs.module#CatalogsModule',
-  //       canActivate: [AuthGuard, UserTypeGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'messages',
-  //       loadChildren: '../app/modules/messages/messages.module#MessagesModule',
-  //       canActivate: [AuthGuard, UserTypeGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'reports',
-  //       loadChildren: '../app/modules/reports/reports.module#ReportsModule',
-  //       canActivate: [AuthGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'companies',
-  //       loadChildren: '../app/modules/company/company.module#CompanyModule',
-  //       canActivate: [AuthGuard, UserTypeGuard]
-  //     }
-  //   ]
-  // },
-  // {
-  //   path: 'main',
-  //   component: CondensedComponent,
-  //   children: [
-  //     {
-  //       path: 'import',
-  //       loadChildren: '../app/modules/imports/imports.module#ImportsModule',
-  //       canActivate: [AuthGuard, UserTypeGuard]
-  //     }
-  //   ]
-  // }
 ];
 
 @NgModule({
