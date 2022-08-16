@@ -1,8 +1,13 @@
-<div class="ui-fluid ng-main" [ngClass]="theme">
-    <p-toast position="bottom-right"></p-toast>
-    <div [class.hidden]="!showLoader" class="np-loader">
-        <p-progressSpinner strokeWidth="5"></p-progressSpinner>
+<div class="container-scroller">
+  <app-navbar *ngIf="showNavbar"></app-navbar>
+  <div class="container-fluid page-body-wrapper">
+    <app-settings-panel *ngIf="showSettings"></app-settings-panel>
+    <app-sidebar *ngIf="showSidebar"></app-sidebar>
+    <div class="main-panel" [ngClass]="{ 'main-panel-only' : !showSidebar }">
+      <div class="content-wrapper">
+        <router-outlet></router-outlet>
+      </div>
+      <app-footer *ngIf="showFooter"></app-footer>
     </div>
-    <router-outlet></router-outlet>
+  </div>
 </div>
-

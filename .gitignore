@@ -7,6 +7,12 @@
 
 # dependencies
 /node_modules
+/demo
+/src
+
+# profiling files
+chrome-profiler-events.json
+speed-measure-plugin.json
 
 # IDEs and editors
 /.idea
@@ -37,3 +43,4 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+demo
