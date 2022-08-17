@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "demo",
+            "outputPath": "fbasetv",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -159,7 +159,7 @@
       }
     }
   },
-  "defaultProject": "justdo-angular",
+  "defaultProject": "fbasetv",
   "cli": {
     "analytics": false
   }

@@ -1,0 +1,75 @@
+.btn  {
+    height: 40px;
+}
+
+table tbody tr{
+    cursor: pointer;
+}
+
+.card {
+    border: none;
+}
+
+.toggle-active{
+    color: #fff;
+    background-color: #71c016;
+    border-color: #71c016;
+}
+
+.list-wrapper ul li {
+    padding: 5px 20px;
+    margin-bottom: 2px;
+    border-radius: 7px;
+}
+
+.list-wrapper {    
+    overflow: hidden;
+    margin-bottom: 16px;
+
+    & ul{
+        width: 400px;
+        margin: 0 auto;
+    }
+}
+
+.modal-body{
+    padding-top: 11px !important;
+    padding-bottom: 0px !important;
+}
+
+@media (min-width: 992px){
+ .modal-lg, .modal-xl {
+    max-width: 70% !important;
+ }
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.card-body{
+    padding-top: 15px;
+    padding-bottom: 0px;
+}
+
+.modal-lg, .modal-xl {
+    max-width: 70% !important;
+}
+
+@media (min-width: 576px){
+    .modal-dialog {
+        width: 70% !important;
+    }
+}
+
+::ng-deep ngb-modal-window .modal-dialog{
+    width: 70% !important;
+}
+
+.modal-title{
+    padding: 20px;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    border-bottom: 1px solid #c9ccd7;
+}

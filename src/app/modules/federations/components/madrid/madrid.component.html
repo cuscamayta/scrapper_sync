@@ -1,0 +1,155 @@
+<div class="row">
+
+  <div class="col-lg-12 title-container">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title title">FEDERACION MADRILENIA DE FUTBOL</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">Categorias</h4>
+        <div>
+          <p-tree [value]="types" selectionMode="checkbox" [(selection)]="selectedFiles2"
+            (onNodeSelect)="nodeSelect($event)" (onNodeUnselect)="nodeUnselect($event)">
+            <ng-template let-node pTemplate="default">
+              <span pTooltip="{{ node.label }} - {{node.id}}">{{ node.label }}</span>
+            </ng-template>
+          </p-tree>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+      <div class="card-body">
+        <h4 class="card-title">Informacion</h4>
+        <p-accordion>
+          <p-accordionTab *ngFor="let match of matchesInJourney; let i = index">
+            <ng-template pTemplate="header"><div class="match-title">{{match.local.name}} vs {{match.visitor.name}}</div> <div class="match-date">{{match.date}} - {{match.time}}</div></ng-template>
+            <div class="table-responsive">
+              <ngb-tabset>
+                <ngb-tab title="Detalles">
+                  <ng-template ngbTabContent class="tab-pane fade" id="home-1" aria-labelledby="home-tab">
+                    <div class="media">
+                      <div class="table-responsive">
+                        <table class="table">
+                          <tbody>
+                            <tr>
+                              <td><strong>Resultado</strong></td>
+                              <td>{{match.score ? match.score :'No Informacion'}}</td>
+                            </tr>
+                            <tr>
+                              <td><strong>Ubicacion</strong></td>
+                              <td>{{match.location}}</td>
+                            </tr>
+                            <tr>
+                              <td><strong>Arbitro</strong></td>
+                              <td>{{match.referees}}</td>
+                            </tr>
+                            <tr>
+                              <td><strong>Url Acta</strong></td>
+                              <td>{{match.actUrl}}</td>
+                            </tr>
+                            <tr>
+                              <td><strong>Url Comparativo</strong></td>
+                              <td>{{match.reportComparative}}</td>
+                            </tr>                        
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </ng-template>
+                </ngb-tab>
+                <ngb-tab title="Local">
+                  <ng-template ngbTabContent class="tab-pane fade" id="profile-1" aria-labelledby="profile-tab">
+                    <div class="media">
+                      <div class="table-responsive">
+                        <table class="table">
+                          <thead>
+                            <tr>
+                              <th>Nombre</th>
+                              <th>Numero</th>
+                              <th>Url</th>                              
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr *ngFor="let player of match.local.playerLineup; let i = index">
+                              <td>{{player.name}}</td>
+                              <td>{{player.number}}</td>
+                              <td>{{player.url}}</td>                              
+                            </tr>                   
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </ng-template>
+                </ngb-tab>
+                <ngb-tab title="Visitante">
+                  <ng-template ngbTabContent class="tab-pane fade" id="contact-1" aria-labelledby="contact-tab">
+                    <div class="media">
+                      <div class="table-responsive">
+                        <table class="table">
+                          <thead>
+                            <tr>
+                              <th>Nombre</th>
+                              <th>Numero</th>
+                              <th>Url</th>                              
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr *ngFor="let player of match.visitor.playerLineup; let i = index">
+                              <td>{{player.name}}</td>
+                              <td>{{player.number}}</td>
+                              <td>{{player.url}}</td>                              
+                            </tr>                   
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </ng-template>
+                </ngb-tab>
+              </ngb-tabset>
+            </div>
+          </p-accordionTab>
+        </p-accordion>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+      <div class="card-body body-clubs">
+        <h4 class="card-title">Clubs</h4>
+        <div class="clubs">
+          <div (click)="loadClubs()" class="loader" *ngIf="!isClubsLoaded">Click para cargar Clubs</div>
+          <p-accordion *ngIf="isClubsLoaded">
+            <p-accordionTab *ngFor="let club of clubs; let i = index">
+              <ng-template pTemplate="header">{{club.name}} - Equipos</ng-template>
+              <div class="table-responsive">
+                <table class="table">
+                  <thead>
+                    <tr>
+                      <th>Nombre</th>
+                      <th>Categoria</th>
+                      <th>Url</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr *ngFor="let team of club.teams; let i = index">
+                      <td><strong>{{team.name}}</strong></td>
+                      <td>{{team.category}}</td>
+                      <td>{{team.url}}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </p-accordionTab>
+          </p-accordion>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
