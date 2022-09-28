@@ -4,6 +4,7 @@ import { ProfilesComponent } from './components/profiles/profiles.component';
 import { MadridComponent } from './components/madrid/madrid.component';
 import { UsersComponent } from './components/users/users.component';
 import { CatalanaComponent } from './components/catalana/catalana.component';
+import { ValencianaComponent } from './components/valenciana/valenciana.component';
 
 const routes: Routes = [
     {
@@ -13,6 +14,10 @@ const routes: Routes = [
     {
         path: 'catalana',
         component: CatalanaComponent
+    },
+    {
+        path: 'valenciana',
+        component: ValencianaComponent
     },
     {
         path: 'madrid',

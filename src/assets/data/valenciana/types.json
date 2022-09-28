@@ -1,0 +1,2765 @@
+[
+    {
+        "name": "Masculino F11",
+        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1",
+        "label": "Masculino F11",
+        "competitions": [
+            {
+                "name": "Primera División",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11379",
+                "label": "Primera División",
+                "groups": [
+                    {
+                        "name": "Liga Regular - Único",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11379&id_torneo=43705",
+                        "label": "Liga Regular - Único"
+                    }
+                ]
+            },
+            {
+                "name": "Segunda División",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11380",
+                "label": "Segunda División",
+                "groups": [
+                    {
+                        "name": "Liga Regular - Unico",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11380&id_torneo=43706",
+                        "label": "Liga Regular - Unico"
+                    }
+                ]
+            },
+            {
+                "name": "Primera Federación",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11382",
+                "label": "Primera Federación",
+                "groups": [
+                    {
+                        "name": "FASE REGULAR - GRUPO 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11382&id_torneo=43716",
+                        "label": "FASE REGULAR - GRUPO 2"
+                    }
+                ]
+            },
+            {
+                "name": "Segunda B - Segunda Federación",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11383",
+                "label": "Segunda B - Segunda Federación",
+                "groups": [
+                    {
+                        "name": "FASE REGULAR - GRUPO 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11383&id_torneo=43738",
+                        "label": "FASE REGULAR - GRUPO 3"
+                    }
+                ]
+            },
+            {
+                "name": "Tercera Federación",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11386",
+                "label": "Tercera Federación",
+                "groups": [
+                    {
+                        "name": "Primera Fase - GRUPO VI",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11386&id_torneo=43748",
+                        "label": "Primera Fase - GRUPO VI"
+                    }
+                ]
+            },
+            {
+                "name": "Copa Federación",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11381",
+                "label": "Copa Federación",
+                "groups": [
+                    {
+                        "name": "Dieciseisavos final - Dieciseisavos",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11381&id_torneo=43708",
+                        "label": "Dieciseisavos final - Dieciseisavos"
+                    }
+                ]
+            },
+            {
+                "name": "Fase Autonómica Copa Federación",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12319",
+                "label": "Fase Autonómica Copa Federación",
+                "groups": [
+                    {
+                        "name": "Final",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12319&id_torneo=49788",
+                        "label": "Final"
+                    },
+                    {
+                        "name": "Grupos - A",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12319&id_torneo=49479",
+                        "label": "Grupos - A"
+                    },
+                    {
+                        "name": "Grupos - B",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12319&id_torneo=49480",
+                        "label": "Grupos - B"
+                    }
+                ]
+            },
+            {
+                "name": " Lliga À Punt Preferent",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12103",
+                "label": " Lliga À Punt Preferent",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12103&id_torneo=48435",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12103&id_torneo=48436",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12103&id_torneo=48437",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12103&id_torneo=48438",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional ",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106",
+                "label": "1ª. Regional ",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48453",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48454",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48455",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48456",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48460",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48457",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48458",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12106&id_torneo=48459",
+                        "label": "Liga - 8"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107",
+                "label": "2ª. Regional",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48462",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48463",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48464",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48465",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48466",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48467",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48468",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48469",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48470",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48471",
+                        "label": "Liga - 10"
+                    },
+                    {
+                        "name": "Liga - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48472",
+                        "label": "Liga - 11"
+                    },
+                    {
+                        "name": "Liga - 12",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48473",
+                        "label": "Liga - 12"
+                    },
+                    {
+                        "name": "Liga - 13",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48474",
+                        "label": "Liga - 13"
+                    },
+                    {
+                        "name": "Liga - 14",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48475",
+                        "label": "Liga - 14"
+                    },
+                    {
+                        "name": "Liga - 15",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48476",
+                        "label": "Liga - 15"
+                    },
+                    {
+                        "name": "Liga - 16",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12107&id_torneo=48477",
+                        "label": "Liga - 16"
+                    }
+                ]
+            },
+            {
+                "name": "II Copa Comunitat Mediterránea \"La Nostra Copa\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12381",
+                "label": "II Copa Comunitat Mediterránea \"La Nostra Copa\"",
+                "groups": [
+                    {
+                        "name": "Primera - 1ª ELIMINATORIA",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12381&id_torneo=49841",
+                        "label": "Primera - 1ª ELIMINATORIA"
+                    },
+                    {
+                        "name": "Segunda - 2ª Eliminatoria",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12381&id_torneo=49951",
+                        "label": "Segunda - 2ª Eliminatoria"
+                    },
+                    {
+                        "name": "Segunda - 2ª Eliminatoria bis",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12381&id_torneo=49982",
+                        "label": "Segunda - 2ª Eliminatoria bis"
+                    },
+                    {
+                        "name": "Segunda - 3ª ELIMINATORIA",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12381&id_torneo=49952",
+                        "label": "Segunda - 3ª ELIMINATORIA"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga de Veterans València",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12131",
+                "label": "Lliga de Veterans València",
+                "groups": [
+                    {
+                        "name": "Liga - Norte",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12131&id_torneo=48660",
+                        "label": "Liga - Norte"
+                    },
+                    {
+                        "name": "Liga - Sur",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12131&id_torneo=48661",
+                        "label": "Liga - Sur"
+                    }
+                ]
+            },
+            {
+                "name": "Division de Honor Juvenil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11389",
+                "label": "Division de Honor Juvenil",
+                "groups": [
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11389&id_torneo=43863",
+                        "label": "Liga - 7"
+                    }
+                ]
+            },
+            {
+                "name": "Liga Nacional Juvenil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11393",
+                "label": "Liga Nacional Juvenil",
+                "groups": [
+                    {
+                        "name": "Primera - VIII",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=11393&id_torneo=43887",
+                        "label": "Primera - VIII"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Preferent Juvenil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12108",
+                "label": "Lliga Preferent Juvenil",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12108&id_torneo=48478",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12108&id_torneo=48479",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12108&id_torneo=48480",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12108&id_torneo=48481",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Juvenil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109",
+                "label": "1ª. Regional Juvenil",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48484",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48485",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48486",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48487",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48488",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48489",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48490",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12109&id_torneo=48491",
+                        "label": "Liga - 8"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional Juvenil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110",
+                "label": "2ª. Regional Juvenil",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48493",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48494",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48495",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48511",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48496",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48497",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48498",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48499",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48500",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48501",
+                        "label": "Liga - 10"
+                    },
+                    {
+                        "name": "Liga - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48502",
+                        "label": "Liga - 11"
+                    },
+                    {
+                        "name": "Liga - 12",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48503",
+                        "label": "Liga - 12"
+                    },
+                    {
+                        "name": "Liga - 13",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48504",
+                        "label": "Liga - 13"
+                    },
+                    {
+                        "name": "Liga - 14",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48505",
+                        "label": "Liga - 14"
+                    },
+                    {
+                        "name": "Liga - 15",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48506",
+                        "label": "Liga - 15"
+                    },
+                    {
+                        "name": "Liga - 16",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48507",
+                        "label": "Liga - 16"
+                    },
+                    {
+                        "name": "Liga - 17",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48508",
+                        "label": "Liga - 17"
+                    },
+                    {
+                        "name": "Liga - 18",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48509",
+                        "label": "Liga - 18"
+                    },
+                    {
+                        "name": "Liga - 19",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=48510",
+                        "label": "Liga - 19"
+                    },
+                    {
+                        "name": "Liga - 20",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=49862",
+                        "label": "Liga - 20"
+                    },
+                    {
+                        "name": "Liga - 21",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12110&id_torneo=49863",
+                        "label": "Liga - 21"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Autonòmica Cadet",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12111",
+                "label": "Lliga Autonòmica Cadet",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12111&id_torneo=49611",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Preferent Cadet",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12112",
+                "label": "Lliga Preferent Cadet",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12112&id_torneo=48516",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12112&id_torneo=48517",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12112&id_torneo=48518",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12112&id_torneo=48519",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Cadet",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113",
+                "label": "1ª. Regional Cadet",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48522",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48523",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48524",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48525",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48526",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48527",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48528",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=48529",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=49848",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=49849",
+                        "label": "Liga - 10"
+                    },
+                    {
+                        "name": "Liga - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=49850",
+                        "label": "Liga - 11"
+                    },
+                    {
+                        "name": "Liga - 12",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12113&id_torneo=49851",
+                        "label": "Liga - 12"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Provincial Cadet València",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118",
+                "label": "2ª. Provincial Cadet València",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48550",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48551",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48552",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48553",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48554",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48555",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48556",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48557",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=48558",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=50111",
+                        "label": "Liga - 10"
+                    },
+                    {
+                        "name": "Liga - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12118&id_torneo=50112",
+                        "label": "Liga - 11"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Provincial Cadete Alicante ",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115",
+                "label": "2ª. Provincial Cadete Alicante ",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48535",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48536",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48537",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48538",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48539",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48540",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48541",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=48542",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12115&id_torneo=50035",
+                        "label": "Liga - 9"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Provincial Cadet Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12116",
+                "label": "2ª. Provincial Cadet Castelló",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12116&id_torneo=48543",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12116&id_torneo=48544",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12116&id_torneo=48545",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12116&id_torneo=48546",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Cadet \"La Ribera\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12117",
+                "label": "2ª. Cadet \"La Ribera\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12117&id_torneo=48547",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12117&id_torneo=48548",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3 - La Montaña",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12117&id_torneo=48549",
+                        "label": "Liga - 3 - La Montaña"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Cadet \"La Safor\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12114",
+                "label": "2ª. Cadet \"La Safor\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12114&id_torneo=48534",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12114&id_torneo=50058",
+                        "label": "Liga - 2"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Autonòmica Infantil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12119",
+                "label": "Lliga Autonòmica Infantil",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12119&id_torneo=48559",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Preferent Infantil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12120",
+                "label": "Lliga Preferent Infantil",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12120&id_torneo=48563",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12120&id_torneo=48564",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12120&id_torneo=48565",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12120&id_torneo=48566",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Infantil",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121",
+                "label": "1ª. Regional Infantil",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48569",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48570",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48571",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48572",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48573",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48574",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48575",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=48576",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=49852",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=49853",
+                        "label": "Liga - 10"
+                    },
+                    {
+                        "name": "Liga - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=49854",
+                        "label": "Liga - 11"
+                    },
+                    {
+                        "name": "Liga - 12",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12121&id_torneo=49855",
+                        "label": "Liga - 12"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Provincial Infantil València",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125",
+                "label": "2ª. Provincial Infantil València",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48600",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48602",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48601",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48603",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48604",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48605",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48606",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48607",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48608",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48609",
+                        "label": "Liga - 10"
+                    },
+                    {
+                        "name": "Liga - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=48610",
+                        "label": "Liga - 11"
+                    },
+                    {
+                        "name": "Liga - 12",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=50113",
+                        "label": "Liga - 12"
+                    },
+                    {
+                        "name": "Liga - 13",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=50114",
+                        "label": "Liga - 13"
+                    },
+                    {
+                        "name": "Liga - 14",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12125&id_torneo=50115",
+                        "label": "Liga - 14"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Provincial Infantil Alicante",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124",
+                "label": "2ª. Provincial Infantil Alicante",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48589",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48590",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48591",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48592",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48593",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48594",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48595",
+                        "label": "Liga - 7"
+                    },
+                    {
+                        "name": "Liga - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48596",
+                        "label": "Liga - 8"
+                    },
+                    {
+                        "name": "Liga - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48597",
+                        "label": "Liga - 9"
+                    },
+                    {
+                        "name": "Liga - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12124&id_torneo=48598",
+                        "label": "Liga - 10"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Provincial Infantil Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12123",
+                "label": "2ª. Provincial Infantil Castelló",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12123&id_torneo=48584",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12123&id_torneo=48585",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12123&id_torneo=48586",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12123&id_torneo=48587",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12123&id_torneo=48588",
+                        "label": "Liga - 5"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Infantil \"La Ribera\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12122",
+                "label": "2ª. Infantil \"La Ribera\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12122&id_torneo=48581",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12122&id_torneo=48582",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12122&id_torneo=48583",
+                        "label": "Liga - 3"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Infantil \"La Safor\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12126",
+                "label": "2ª. Infantil \"La Safor\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12126&id_torneo=48611",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=1&id_competicion=12126&id_torneo=48612",
+                        "label": "Liga - 2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Masculino F8",
+        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5",
+        "label": "Masculino F8",
+        "competitions": [
+            {
+                "name": "Lliga Preferent Aleví 2º. Any",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12160",
+                "label": "Lliga Preferent Aleví 2º. Any",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12160&id_torneo=49013",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12160&id_torneo=49014",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12160&id_torneo=49015",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12160&id_torneo=49016",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 2º. Any València \"Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12165",
+                "label": "Lliga Aleví 2º. Any València \"Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12165&id_torneo=49030",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 2º. Any València \"Mitjà\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168",
+                "label": "Lliga Aleví 2º. Any València \"Mitjà\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168&id_torneo=49038",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168&id_torneo=49039",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168&id_torneo=49040",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168&id_torneo=49041",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168&id_torneo=50079",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12168&id_torneo=50080",
+                        "label": "Liga - 6"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 2º. Any València \"Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158",
+                "label": "Lliga Aleví 2º. Any València \"Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48991",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48992",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48993",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48994",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48995",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48996",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12158&id_torneo=48997",
+                        "label": "Liga - 7"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 1º. Any València \"Alt\" ",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12180",
+                "label": "Lliga Aleví 1º. Any València \"Alt\" ",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12180&id_torneo=49098",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12180&id_torneo=49099",
+                        "label": "Liga - 2"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví  1º. Any València \"Mitjà\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12177",
+                "label": "Lliga Aleví  1º. Any València \"Mitjà\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12177&id_torneo=49078",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12177&id_torneo=49079",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12177&id_torneo=49080",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12177&id_torneo=50081",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12177&id_torneo=50082",
+                        "label": "Liga - 5"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví  1º. Any València \"Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175",
+                "label": "Lliga Aleví  1º. Any València \"Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175&id_torneo=49068",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175&id_torneo=49069",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175&id_torneo=49070",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175&id_torneo=49071",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175&id_torneo=49072",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12175&id_torneo=49073",
+                        "label": "Liga - 6"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 2º. Any València \"Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12191",
+                "label": "Lliga Benjamí 2º. Any València \"Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12191&id_torneo=49144",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 2º. Any València \"Mitjà\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12188",
+                "label": "Lliga Benjamí 2º. Any València \"Mitjà\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12188&id_torneo=49135",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12188&id_torneo=49136",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12188&id_torneo=49137",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12188&id_torneo=50083",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12188&id_torneo=50084",
+                        "label": "Liga - 5"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 2º. Any València \"Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193",
+                "label": "Lliga Benjamí 2º. Any València \"Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193&id_torneo=49158",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193&id_torneo=49159",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193&id_torneo=49160",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193&id_torneo=49161",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193&id_torneo=49162",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12193&id_torneo=49163",
+                        "label": "Liga - 6"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 1º. Any València \"Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12202",
+                "label": "Lliga Benjamí 1º. Any València \"Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12202&id_torneo=49191",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 1º. Any València \"Mitjà\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12201",
+                "label": "Lliga Benjamí 1º. Any València \"Mitjà\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12201&id_torneo=49189",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12201&id_torneo=49190",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12201&id_torneo=50085",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12201&id_torneo=50086",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 1º. Any València \"Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12204",
+                "label": "Lliga Benjamí 1º. Any València \"Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12204&id_torneo=49198",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12204&id_torneo=49199",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12204&id_torneo=49200",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12204&id_torneo=49201",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12204&id_torneo=49202",
+                        "label": "Liga - 5"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 2º. Any València \"Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12207",
+                "label": "Lliga Prebenjamí 2º. Any València \"Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12207&id_torneo=49207",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 2º. Any València \"Mitjà\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12213",
+                "label": "Lliga Prebenjamí 2º. Any València \"Mitjà\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12213&id_torneo=49236",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12213&id_torneo=49237",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12213&id_torneo=50105",
+                        "label": "Liga - 3"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 2º. Any València \"Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215",
+                "label": "Lliga Prebenjamí 2º. Any València \"Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215&id_torneo=49245",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215&id_torneo=49246",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215&id_torneo=49247",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215&id_torneo=49248",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215&id_torneo=49249",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12215&id_torneo=50118",
+                        "label": "Liga - 6"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 1º. Any València \"Mitjà\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12222",
+                "label": "Lliga Prebenjamí 1º. Any València \"Mitjà\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12222&id_torneo=49269",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12222&id_torneo=50088",
+                        "label": "Liga - 2"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 1º. Any València \"Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12218",
+                "label": "Lliga Prebenjamí 1º. Any València \"Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12218&id_torneo=49257",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12218&id_torneo=49258",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12218&id_torneo=49259",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12218&id_torneo=49260",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 2º. Any \"La Costera Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12166",
+                "label": "Lliga Aleví 2º. Any \"La Costera Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12166&id_torneo=49034",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 2º. Any \"La Safor Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12169",
+                "label": "Lliga Aleví 2º. Any \"La Safor Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12169&id_torneo=49042",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 2º. Any Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159",
+                "label": "Lliga Aleví 2º. Any Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoria  - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=48999",
+                        "label": "Clasificatoria  - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=49000",
+                        "label": "Clasificatoria  - 2"
+                    },
+                    {
+                        "name": "Clasificatoria  - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=49001",
+                        "label": "Clasificatoria  - 3"
+                    },
+                    {
+                        "name": "Clasificatoria  - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=49002",
+                        "label": "Clasificatoria  - 4"
+                    },
+                    {
+                        "name": "Clasificatoria  - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=49003",
+                        "label": "Clasificatoria  - 5"
+                    },
+                    {
+                        "name": "Clasificatoria  - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=49004",
+                        "label": "Clasificatoria  - 6"
+                    },
+                    {
+                        "name": "Clasificatoria  - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=49005",
+                        "label": "Clasificatoria  - 7"
+                    },
+                    {
+                        "name": "Clasificatoria  - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=50063",
+                        "label": "Clasificatoria  - 8"
+                    },
+                    {
+                        "name": "Clasificatoria  - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=50064",
+                        "label": "Clasificatoria  - 9"
+                    },
+                    {
+                        "name": "Clasificatoria  - 10",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=50065",
+                        "label": "Clasificatoria  - 10"
+                    },
+                    {
+                        "name": "Clasificatoria  - 11",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=50066",
+                        "label": "Clasificatoria  - 11"
+                    },
+                    {
+                        "name": "Clasificatoria  - 12",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12159&id_torneo=50067",
+                        "label": "Clasificatoria  - 12"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví Mixt Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12280",
+                "label": "Lliga Aleví Mixt Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoría",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12280&id_torneo=50068",
+                        "label": "Clasificatoría"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví  1º. Any Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179",
+                "label": "Lliga Aleví  1º. Any Castelló",
+                "groups": [
+                    {
+                        "name": " Nivell Alt - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=50089",
+                        "label": " Nivell Alt - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49084",
+                        "label": "Clasificatoria  - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49085",
+                        "label": "Clasificatoria  - 2"
+                    },
+                    {
+                        "name": "Clasificatoria  - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49086",
+                        "label": "Clasificatoria  - 3"
+                    },
+                    {
+                        "name": "Clasificatoria  - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49087",
+                        "label": "Clasificatoria  - 4"
+                    },
+                    {
+                        "name": "Clasificatoria  - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49088",
+                        "label": "Clasificatoria  - 5"
+                    },
+                    {
+                        "name": "Clasificatoria  - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49089",
+                        "label": "Clasificatoria  - 6"
+                    },
+                    {
+                        "name": "Clasificatoria  - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=49090",
+                        "label": "Clasificatoria  - 7"
+                    },
+                    {
+                        "name": "Clasificatoria  - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12179&id_torneo=50093",
+                        "label": "Clasificatoria  - 8"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 1º. Any \"La Costera Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12176",
+                "label": "Lliga Aleví 1º. Any \"La Costera Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12176&id_torneo=49075",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Aleví 1º. Any \"La Safor Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12172",
+                "label": "Lliga Aleví 1º. Any \"La Safor Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12172&id_torneo=49050",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 2º. Año Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184",
+                "label": "Lliga Benjamí 2º. Año Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoria - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49113",
+                        "label": "Clasificatoria - 1"
+                    },
+                    {
+                        "name": "Clasificatoria - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49114",
+                        "label": "Clasificatoria - 2"
+                    },
+                    {
+                        "name": "Clasificatoria - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49115",
+                        "label": "Clasificatoria - 3"
+                    },
+                    {
+                        "name": "Clasificatoria - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49116",
+                        "label": "Clasificatoria - 4"
+                    },
+                    {
+                        "name": "Clasificatoria - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49117",
+                        "label": "Clasificatoria - 5"
+                    },
+                    {
+                        "name": "Clasificatoria - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49118",
+                        "label": "Clasificatoria - 6"
+                    },
+                    {
+                        "name": "Clasificatoria - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=49119",
+                        "label": "Clasificatoria - 7"
+                    },
+                    {
+                        "name": "Clasificatoria - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=50099",
+                        "label": "Clasificatoria - 8"
+                    },
+                    {
+                        "name": "Nivell Alt - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12184&id_torneo=50090",
+                        "label": "Nivell Alt - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí Mixt Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12281",
+                "label": "Lliga Benjamí Mixt Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoría - CLASIFICATORÍA",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12281&id_torneo=50069",
+                        "label": "Clasificatoría - CLASIFICATORÍA"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 1º. Any Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197",
+                "label": "Lliga Benjamí 1º. Any Castelló",
+                "groups": [
+                    {
+                        "name": " Nivell Alt - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=50091",
+                        "label": " Nivell Alt - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=49170",
+                        "label": "Clasificatoria  - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=49171",
+                        "label": "Clasificatoria  - 2"
+                    },
+                    {
+                        "name": "Clasificatoria  - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=49172",
+                        "label": "Clasificatoria  - 3"
+                    },
+                    {
+                        "name": "Clasificatoria  - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=49173",
+                        "label": "Clasificatoria  - 4"
+                    },
+                    {
+                        "name": "Clasificatoria  - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=49174",
+                        "label": "Clasificatoria  - 5"
+                    },
+                    {
+                        "name": "Clasificatoria  - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=50095",
+                        "label": "Clasificatoria  - 6"
+                    },
+                    {
+                        "name": "Clasificatoria  - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=50096",
+                        "label": "Clasificatoria  - 7"
+                    },
+                    {
+                        "name": "Clasificatoria  - 8",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=50097",
+                        "label": "Clasificatoria  - 8"
+                    },
+                    {
+                        "name": "Clasificatoria  - 9",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12197&id_torneo=50098",
+                        "label": "Clasificatoria  - 9"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 2º. Any \"La Safor Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12187",
+                "label": "Lliga Benjamí 2º. Any \"La Safor Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12187&id_torneo=49134",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12187&id_torneo=50094",
+                        "label": "Liga - 2"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Benjamí 1º. Any \"La Safor Alt\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12200",
+                "label": "Lliga Benjamí 1º. Any \"La Safor Alt\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12200&id_torneo=49188",
+                        "label": "Liga - 1"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 2º. Any Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210",
+                "label": "Lliga Prebenjamí 2º. Any Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoria  - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210&id_torneo=49218",
+                        "label": "Clasificatoria  - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210&id_torneo=49219",
+                        "label": "Clasificatoria  - 2"
+                    },
+                    {
+                        "name": "Clasificatoria  - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210&id_torneo=49220",
+                        "label": "Clasificatoria  - 3"
+                    },
+                    {
+                        "name": "Clasificatoria  - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210&id_torneo=49221",
+                        "label": "Clasificatoria  - 4"
+                    },
+                    {
+                        "name": "Clasificatoria  - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210&id_torneo=49222",
+                        "label": "Clasificatoria  - 5"
+                    },
+                    {
+                        "name": "Clasificatoria  - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12210&id_torneo=49223",
+                        "label": "Clasificatoria  - 6"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Pre-Benjamí Mixt Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12282",
+                "label": "Lliga Pre-Benjamí Mixt Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoría - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12282&id_torneo=50070",
+                        "label": "Clasificatoría - 1"
+                    },
+                    {
+                        "name": "Clasificatoría - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12282&id_torneo=50071",
+                        "label": "Clasificatoría - 2"
+                    },
+                    {
+                        "name": "Clasificatoría - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12282&id_torneo=50072",
+                        "label": "Clasificatoría - 3"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 1º. Any Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220",
+                "label": "Lliga Prebenjamí 1º. Any Castelló",
+                "groups": [
+                    {
+                        "name": "Clasificatoria  - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220&id_torneo=49262",
+                        "label": "Clasificatoria  - 1"
+                    },
+                    {
+                        "name": "Clasificatoria  - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220&id_torneo=49263",
+                        "label": "Clasificatoria  - 2"
+                    },
+                    {
+                        "name": "Clasificatoria  - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220&id_torneo=50073",
+                        "label": "Clasificatoria  - 3"
+                    },
+                    {
+                        "name": "Clasificatoria  - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220&id_torneo=50074",
+                        "label": "Clasificatoria  - 4"
+                    },
+                    {
+                        "name": "Clasificatoria  - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220&id_torneo=50075",
+                        "label": "Clasificatoria  - 5"
+                    },
+                    {
+                        "name": "Clasificatoria  - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12220&id_torneo=50076",
+                        "label": "Clasificatoria  - 6"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Prebenjamí 2º. Any \"La Safor Iniciació\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12211",
+                "label": "Lliga Prebenjamí 2º. Any \"La Safor Iniciació\"",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=5&id_competicion=12211&id_torneo=49232",
+                        "label": "Liga - 1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Masculino Futsal",
+        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2",
+        "label": "Masculino Futsal",
+        "competitions": [
+            {
+                "name": "Primera Federación Futsal Masculina",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11415",
+                "label": "Primera Federación Futsal Masculina",
+                "groups": [
+                    {
+                        "name": "1 - Unico",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11415&id_torneo=44015",
+                        "label": "1 - Unico"
+                    }
+                ]
+            },
+            {
+                "name": "Segunda Federación Futsal Masculina",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11416",
+                "label": "Segunda Federación Futsal Masculina",
+                "groups": [
+                    {
+                        "name": "1 - Único",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11416&id_torneo=44020",
+                        "label": "1 - Único"
+                    }
+                ]
+            },
+            {
+                "name": "Segunda División B Fútbol Sala",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11418",
+                "label": "Segunda División B Fútbol Sala",
+                "groups": [
+                    {
+                        "name": "1 - Grupo 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11418&id_torneo=44027",
+                        "label": "1 - Grupo 3"
+                    }
+                ]
+            },
+            {
+                "name": "Tercera División Fútbol Sala",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11420",
+                "label": "Tercera División Fútbol Sala",
+                "groups": [
+                    {
+                        "name": "1 - Grupo 14",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11420&id_torneo=44049",
+                        "label": "1 - Grupo 14"
+                    },
+                    {
+                        "name": "1 - GRUPO 15",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11420&id_torneo=44051",
+                        "label": "1 - GRUPO 15"
+                    }
+                ]
+            },
+            {
+                "name": "Regional Preferent Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12132",
+                "label": "Regional Preferent Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1 Valencia",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12132&id_torneo=48667",
+                        "label": "Liga - 1 Valencia"
+                    },
+                    {
+                        "name": "Liga - 2 Castellón",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12132&id_torneo=48668",
+                        "label": "Liga - 2 Castellón"
+                    },
+                    {
+                        "name": "Liga - 3 Alicante",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12132&id_torneo=48669",
+                        "label": "Liga - 3 Alicante"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12133",
+                "label": "1ª. Regional Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1B",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12133&id_torneo=48673",
+                        "label": "Liga - 1B"
+                    },
+                    {
+                        "name": "Liga - 1A",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12133&id_torneo=48672",
+                        "label": "Liga - 1A"
+                    },
+                    {
+                        "name": "Liga - 2A",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12133&id_torneo=48674",
+                        "label": "Liga - 2A"
+                    },
+                    {
+                        "name": "Liga - 2B",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12133&id_torneo=48675",
+                        "label": "Liga - 2B"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12134",
+                "label": "2ª. Regional Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12134&id_torneo=48683",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12134&id_torneo=48684",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12134&id_torneo=48685",
+                        "label": "Liga - 3"
+                    }
+                ]
+            },
+            {
+                "name": "Campeonato de España / Copa de S.M. El Rey FS",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11411",
+                "label": "Campeonato de España / Copa de S.M. El Rey FS",
+                "groups": [
+                    {
+                        "name": "Primera Eliminatoria - PRIMERA ELIMINATORIA",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11411&id_torneo=43996",
+                        "label": "Primera Eliminatoria - PRIMERA ELIMINATORIA"
+                    },
+                    {
+                        "name": "Segunda Eliminatoria",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11411&id_torneo=43997",
+                        "label": "Segunda Eliminatoria"
+                    }
+                ]
+            },
+            {
+                "name": "I Copa Mediterranea \"La Nostra Copa\"",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12392",
+                "label": "I Copa Mediterranea \"La Nostra Copa\"",
+                "groups": [
+                    {
+                        "name": "Primera - 1ª ELIMINATORIA",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12392&id_torneo=49914",
+                        "label": "Primera - 1ª ELIMINATORIA"
+                    },
+                    {
+                        "name": "Primera B",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12392&id_torneo=49966",
+                        "label": "Primera B"
+                    }
+                ]
+            },
+            {
+                "name": "División de Honor Juvenil Fútbol Sala",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11422",
+                "label": "División de Honor Juvenil Fútbol Sala",
+                "groups": [
+                    {
+                        "name": "1 - Grupo 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=11422&id_torneo=44094",
+                        "label": "1 - Grupo 7"
+                    }
+                ]
+            },
+            {
+                "name": "Liga Autonómica Juvenil Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12231",
+                "label": "Liga Autonómica Juvenil Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - Grupo Unico",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12231&id_torneo=49331",
+                        "label": "Liga - Grupo Unico"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Juvenil Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12135",
+                "label": "1ª. Regional Juvenil Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1 VALENCIA",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12135&id_torneo=48691",
+                        "label": "Liga - 1 VALENCIA"
+                    },
+                    {
+                        "name": "Liga - 2 CASTELLON",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12135&id_torneo=48693",
+                        "label": "Liga - 2 CASTELLON"
+                    },
+                    {
+                        "name": "Liga - 3 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12135&id_torneo=48694",
+                        "label": "Liga - 3 ALICANTE"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional Juvenil Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12136",
+                "label": "2ª. Regional Juvenil Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12136&id_torneo=48713",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12136&id_torneo=48714",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12136&id_torneo=48715",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12136&id_torneo=48716",
+                        "label": "Liga - 4 ALICANTE"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Cadete Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12137",
+                "label": "1ª. Regional Cadete Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1 VALENCIA",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12137&id_torneo=48734",
+                        "label": "Liga - 1 VALENCIA"
+                    },
+                    {
+                        "name": "Liga - 2 CASTELLON",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12137&id_torneo=48736",
+                        "label": "Liga - 2 CASTELLON"
+                    },
+                    {
+                        "name": "Liga - 3 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12137&id_torneo=48739",
+                        "label": "Liga - 3 ALICANTE"
+                    },
+                    {
+                        "name": "Liga - 4 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12137&id_torneo=50053",
+                        "label": "Liga - 4 ALICANTE"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional Cadete Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12138",
+                "label": "2ª. Regional Cadete Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12138&id_torneo=48772",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12138&id_torneo=48773",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12138&id_torneo=48774",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12138&id_torneo=50106",
+                        "label": "Liga - 4 ALICANTE"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Infantil Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12139",
+                "label": "1ª. Regional Infantil Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1 VALENCIA",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12139&id_torneo=48789",
+                        "label": "Liga - 1 VALENCIA"
+                    },
+                    {
+                        "name": "Liga - 2 CASTELLON",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12139&id_torneo=48790",
+                        "label": "Liga - 2 CASTELLON"
+                    },
+                    {
+                        "name": "Liga - 3 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12139&id_torneo=50050",
+                        "label": "Liga - 3 ALICANTE"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional Infantil Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12140",
+                "label": "2ª. Regional Infantil Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12140&id_torneo=48825",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12140&id_torneo=48826",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12140&id_torneo=48827",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4 ALICANTE",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12140&id_torneo=48828",
+                        "label": "Liga - 4 ALICANTE"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Aleví Futsal Valencia",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12146",
+                "label": "1ª. Regional Aleví Futsal Valencia",
+                "groups": [
+                    {
+                        "name": "Liga - Único",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12146&id_torneo=48877",
+                        "label": "Liga - Único"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Provincial Alevín Futsal Alacant",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12145",
+                "label": "1ª. Provincial Alevín Futsal Alacant",
+                "groups": [
+                    {
+                        "name": "Liga - Grupo 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12145&id_torneo=48869",
+                        "label": "Liga - Grupo 2"
+                    },
+                    {
+                        "name": "Liga - Grupo 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12145&id_torneo=48868",
+                        "label": "Liga - Grupo 1"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Provincial Alevín Futsal Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12144",
+                "label": "1ª. Provincial Alevín Futsal Castelló",
+                "groups": [
+                    {
+                        "name": "Liga - Unico",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12144&id_torneo=48865",
+                        "label": "Liga - Unico"
+                    }
+                ]
+            },
+            {
+                "name": "2ª.  Provincial Alevín Futsal València ",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147",
+                "label": "2ª.  Provincial Alevín Futsal València ",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=49327",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=49328",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=49329",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=49330",
+                        "label": "Liga - 4"
+                    },
+                    {
+                        "name": "Liga - 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=50119",
+                        "label": "Liga - 5"
+                    },
+                    {
+                        "name": "Liga - 6",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=50120",
+                        "label": "Liga - 6"
+                    },
+                    {
+                        "name": "Liga - 7",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12147&id_torneo=50121",
+                        "label": "Liga - 7"
+                    }
+                ]
+            },
+            {
+                "name": "Campionat Benjamí Futsal València",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148",
+                "label": "Campionat Benjamí Futsal València",
+                "groups": [
+                    {
+                        "name": "Liga - 1ª REGIONAL",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148&id_torneo=48897",
+                        "label": "Liga - 1ª REGIONAL"
+                    },
+                    {
+                        "name": "Liga - 2ª Regional Grupo 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148&id_torneo=48898",
+                        "label": "Liga - 2ª Regional Grupo 1"
+                    },
+                    {
+                        "name": "Liga - 2ª Regional Grupo 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148&id_torneo=48899",
+                        "label": "Liga - 2ª Regional Grupo 2"
+                    },
+                    {
+                        "name": "Liga - 2ª REGIONAL GRUPO 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148&id_torneo=48900",
+                        "label": "Liga - 2ª REGIONAL GRUPO 3"
+                    },
+                    {
+                        "name": "Liga - 2ª REGIONAL GRUPO 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148&id_torneo=48901",
+                        "label": "Liga - 2ª REGIONAL GRUPO 4"
+                    },
+                    {
+                        "name": "Liga - 2ª REGIONAL GRUPO 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12148&id_torneo=48902",
+                        "label": "Liga - 2ª REGIONAL GRUPO 5"
+                    }
+                ]
+            },
+            {
+                "name": "Campionat Benjamí Futsal Alacant",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12149",
+                "label": "Campionat Benjamí Futsal Alacant",
+                "groups": [
+                    {
+                        "name": "Liga - Único",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12149&id_torneo=48928",
+                        "label": "Liga - Único"
+                    }
+                ]
+            },
+            {
+                "name": "Campionat Benjamí Futsal Castelló",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12150",
+                "label": "Campionat Benjamí Futsal Castelló",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=2&id_competicion=12150&id_torneo=48934",
+                        "label": "Liga - 1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Valenta Futbol",
+        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3",
+        "label": "Valenta Futbol",
+        "competitions": [
+            {
+                "name": "Primera División de Fútbol Femenino",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11397",
+                "label": "Primera División de Fútbol Femenino",
+                "groups": [
+                    {
+                        "name": "1 - LIGA",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11397&id_torneo=49337",
+                        "label": "1 - LIGA"
+                    }
+                ]
+            },
+            {
+                "name": "Primera División Nacional de Fútbol Femenino",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11400",
+                "label": "Primera División Nacional de Fútbol Femenino",
+                "groups": [
+                    {
+                        "name": "Liga - Grupo 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11400&id_torneo=43922",
+                        "label": "Liga - Grupo 3"
+                    },
+                    {
+                        "name": "Liga - Grupo 5",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11400&id_torneo=43924",
+                        "label": "Liga - Grupo 5"
+                    }
+                ]
+            },
+            {
+                "name": "Segunda Federación de Fútbol Femenino",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11399",
+                "label": "Segunda Federación de Fútbol Femenino",
+                "groups": [
+                    {
+                        "name": "Liga - GRUPO 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11399&id_torneo=43918",
+                        "label": "Liga - GRUPO 2"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga À Punt Valenta",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12127",
+                "label": "Lliga À Punt Valenta",
+                "groups": [
+                    {
+                        "name": "Liga - Único",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12127&id_torneo=48613",
+                        "label": "Liga - Único"
+                    }
+                ]
+            },
+            {
+                "name": "Campeonato de España / Copa de S.M. La Reina",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11394",
+                "label": "Campeonato de España / Copa de S.M. La Reina",
+                "groups": [
+                    {
+                        "name": "Primera Eliminatoria - PRIMERA ELIMINATORIA",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=11394&id_torneo=43905",
+                        "label": "Primera Eliminatoria - PRIMERA ELIMINATORIA"
+                    }
+                ]
+            },
+            {
+                "name": "1ª. Regional Valenta",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12128",
+                "label": "1ª. Regional Valenta",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12128&id_torneo=48618",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12128&id_torneo=48619",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12128&id_torneo=48620",
+                        "label": "Liga - 3"
+                    }
+                ]
+            },
+            {
+                "name": "2ª. Regional Valenta",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12129",
+                "label": "2ª. Regional Valenta",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12129&id_torneo=49321",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12129&id_torneo=49322",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12129&id_torneo=49323",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12129&id_torneo=49324",
+                        "label": "Liga - 4"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Juvenil-Cadet Valenta",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130",
+                "label": "Lliga Juvenil-Cadet Valenta",
+                "groups": [
+                    {
+                        "name": "Liga - Cadete Norte",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130&id_torneo=48631",
+                        "label": "Liga - Cadete Norte"
+                    },
+                    {
+                        "name": "Liga - CADETE SUR",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130&id_torneo=48632",
+                        "label": "Liga - CADETE SUR"
+                    },
+                    {
+                        "name": "Liga - 1",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130&id_torneo=48627",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130&id_torneo=48628",
+                        "label": "Liga - 2"
+                    },
+                    {
+                        "name": "Liga - 3",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130&id_torneo=48629",
+                        "label": "Liga - 3"
+                    },
+                    {
+                        "name": "Liga - 4",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=3&id_competicion=12130&id_torneo=48630",
+                        "label": "Liga - 4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Valenta Futsal",
+        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4",
+        "label": "Valenta Futsal",
+        "competitions": [
+            {
+                "name": "Primera Federación Futsal Femenina ",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11428",
+                "label": "Primera Federación Futsal Femenina ",
+                "groups": [
+                    {
+                        "name": "1 - ÚNICO",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11428&id_torneo=44113",
+                        "label": "1 - ÚNICO"
+                    }
+                ]
+            },
+            {
+                "name": "Segunda Federación Futsal Femenina ",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11429",
+                "label": "Segunda Federación Futsal Femenina ",
+                "groups": [
+                    {
+                        "name": "1 - Grupo 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11429&id_torneo=44117",
+                        "label": "1 - Grupo 2"
+                    },
+                    {
+                        "name": "1 - Grupo 4",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11429&id_torneo=44118",
+                        "label": "1 - Grupo 4"
+                    },
+                    {
+                        "name": "1 - GRUPO 3",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11429&id_torneo=44119",
+                        "label": "1 - GRUPO 3"
+                    }
+                ]
+            },
+            {
+                "name": "Copa de la Reina Fútbol Sala",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11424",
+                "label": "Copa de la Reina Fútbol Sala",
+                "groups": [
+                    {
+                        "name": "Primera Eliminatoria - PRIMERA ELIMINATORIA",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11424&id_torneo=50007",
+                        "label": "Primera Eliminatoria - PRIMERA ELIMINATORIA"
+                    },
+                    {
+                        "name": "Segunda Eliminatoria - Único",
+                        "value": "resultados_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=11424&id_torneo=44099",
+                        "label": "Segunda Eliminatoria - Único"
+                    }
+                ]
+            },
+            {
+                "name": "Lliga Autonòmica Futsal Valenta",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=12141",
+                "label": "Lliga Autonòmica Futsal Valenta",
+                "groups": [
+                    {
+                        "name": "Liga - 1A",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=12141&id_torneo=48840",
+                        "label": "Liga - 1A"
+                    },
+                    {
+                        "name": "Liga - 1B",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=12141&id_torneo=48841",
+                        "label": "Liga - 1B"
+                    }
+                ]
+            },
+            {
+                "name": "Provincial Valenta - Promoció Futsal",
+                "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=12142",
+                "label": "Provincial Valenta - Promoció Futsal",
+                "groups": [
+                    {
+                        "name": "Liga - 1",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=12142&id_torneo=48846",
+                        "label": "Liga - 1"
+                    },
+                    {
+                        "name": "Liga - 2",
+                        "value": "proximos_partidos.php?id_temp=2223&id_modalidad=4&id_competicion=12142&id_torneo=48847",
+                        "label": "Liga - 2"
+                    }
+                ]
+            }
+        ]
+    }
+]

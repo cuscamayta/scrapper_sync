@@ -3,11 +3,11 @@ import { TreeNode } from 'primeng/api';
 import { FileService } from '../../services/fileService';
 
 @Component({
-  selector: 'app-catalana',
-  templateUrl: './catalana.component.html',
-  styleUrls: ['./catalana.component.scss']
+  selector: 'app-valenciana',
+  templateUrl: './valenciana.component.html',
+  styleUrls: ['./valenciana.component.scss']
 })
-export class CatalanaComponent implements OnInit {
+export class ValencianaComponent implements OnInit {
 
   constructor(private fileSystem: FileService) { }
 
@@ -37,7 +37,7 @@ export class CatalanaComponent implements OnInit {
 
   loadTypes() {
     debugger;
-    this.fileSystem.getTypes('catalana').then(types => {
+    this.fileSystem.getTypes('valenciana').then(types => {
       this.types = types
       this.convertToTree(this.types);
     });    

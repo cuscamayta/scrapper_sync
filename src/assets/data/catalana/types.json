@@ -1,0 +1,3202 @@
+[
+    {
+        "name": "Futbol 11",
+        "id": "19308233",
+        "competitions": [
+            {
+                "name": "PRIMERA FEDERACIÓ",
+                "id": "44661533",
+                "groups": [
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/primera-federacio/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA FEDERACIÓ",
+                "id": "44661550",
+                "groups": [
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-federacio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-federacio/grup-5"
+                    }
+                ]
+            },
+            {
+                "name": "TERCERA FEDERACIÓ",
+                "id": "43980429",
+                "groups": [
+                    {
+                        "name": "GRUP V",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-federacio/grup-v"
+                    }
+                ]
+            },
+            {
+                "name": "FASE FINAL CAMPIONAT CATALUNYA AMATEUR",
+                "id": "44110421",
+                "groups": [
+                    {
+                        "name": "Quadrant",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/fase-final-campionat-catalunya-amateur/quadrant"
+                    }
+                ]
+            },
+            {
+                "name": "COPA FEDERACIÓ - Fase Autonòmica",
+                "id": "44584324",
+                "groups": [
+                    {
+                        "name": "Quadrant",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/copa-federacio-fase-autonomica/quadrant"
+                    }
+                ]
+            },
+            {
+                "name": "COPA CATALUNYA ABSOLUTA",
+                "id": "44110482",
+                "groups": [
+                    {
+                        "name": "Quadrant",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/copa-catalunya-absoluta/quadrant"
+                    }
+                ]
+            },
+            {
+                "name": "COPA CATALUNYA AMATEUR",
+                "id": "44110491",
+                "groups": [
+                    {
+                        "name": "Quadrant",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/copa-catalunya-amateur/quadrant"
+                    }
+                ]
+            },
+            {
+                "name": "COPA LLEIDA AMATER",
+                "id": "44510115",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/copa-lleida-amater/grup-1"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA CATALANA",
+                "id": "43980430",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/primera-catalana/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/primera-catalana/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/primera-catalana/grup-3"
+                    }
+                ]
+            },
+            {
+                "name": "FASE FINAL COPA PIRINEUS",
+                "id": "44941268",
+                "groups": [
+                    {
+                        "name": "FINAL",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/fase-final-copa-pirineus/final"
+                    },
+                    {
+                        "name": "TERCER I QUART LLOC",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/fase-final-copa-pirineus/tercer-i-quart-lloc"
+                    },
+                    {
+                        "name": "CINQUÈ I SISÈ LLOC",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/fase-final-copa-pirineus/cinque-i-sise-lloc"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA CATALANA",
+                "id": "43980431",
+                "groups": [
+                    {
+                        "name": "SUBGRUP 1.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-1a"
+                    },
+                    {
+                        "name": "SUBGRUP 1.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-1b"
+                    },
+                    {
+                        "name": "SUBGRUP 2.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-2a"
+                    },
+                    {
+                        "name": "SUBGRUP 2.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-2b"
+                    },
+                    {
+                        "name": "SUBGRUP 3.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-3a"
+                    },
+                    {
+                        "name": "SUBGRUP 3.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-3b"
+                    },
+                    {
+                        "name": "SUBGRUP 4.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-4a"
+                    },
+                    {
+                        "name": "SUBGRUP 4.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-4b"
+                    },
+                    {
+                        "name": "SUBGRUP 5.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-5a"
+                    },
+                    {
+                        "name": "SUBGRUP 5.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-5b"
+                    },
+                    {
+                        "name": "SUBGRUP 6.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-6a"
+                    },
+                    {
+                        "name": "SUBGRUP 6.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/segona-catalana/subgrup-6b"
+                    }
+                ]
+            },
+            {
+                "name": "COPA PIRINEUS",
+                "id": "44278522",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/copa-pirineus/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/copa-pirineus/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "TERCERA CATALANA",
+                "id": "43980432",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/tercera-catalana/grup-18"
+                    }
+                ]
+            },
+            {
+                "name": "QUARTA CATALANA",
+                "id": "43980433",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-18"
+                    },
+                    {
+                        "name": "GRUP 20",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-20"
+                    },
+                    {
+                        "name": "GRUP 21",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-21"
+                    },
+                    {
+                        "name": "GRUP 23",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-23"
+                    },
+                    {
+                        "name": "GRUP 24",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-24"
+                    },
+                    {
+                        "name": "GRUP 27",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-27"
+                    },
+                    {
+                        "name": "GRUP 28",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-28"
+                    },
+                    {
+                        "name": "GRUP 29",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-29"
+                    },
+                    {
+                        "name": "GRUP 30",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/quarta-catalana/grup-30"
+                    }
+                ]
+            },
+            {
+                "name": "DIVISIÓ HONOR JUVENIL",
+                "id": "44661553",
+                "groups": [
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/divisio-honor-juvenil/grup-3"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA NACIONAL JUVENIL",
+                "id": "43980434",
+                "groups": [
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/lliga-nacional-juvenil/grup-7"
+                    }
+                ]
+            },
+            {
+                "name": "PREFERENT JUVENILS",
+                "id": "43980435",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-juvenils/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-juvenils/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-juvenils/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-juvenils/grup-4"
+                    }
+                ]
+            },
+            {
+                "name": "JUVENIL PRIMERA DIVISIÓ",
+                "id": "43980436",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-primera-divisio/grup-14"
+                    }
+                ]
+            },
+            {
+                "name": "JUVENIL SEGONA DIVISIÓ",
+                "id": "43980437",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-18"
+                    },
+                    {
+                        "name": "GRUP 19",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-19"
+                    },
+                    {
+                        "name": "GRUP 20",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-20"
+                    },
+                    {
+                        "name": "GRUP 21",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-21"
+                    },
+                    {
+                        "name": "GRUP 22",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-22"
+                    },
+                    {
+                        "name": "GRUP 23",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-23"
+                    },
+                    {
+                        "name": "GRUP 24",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-24"
+                    },
+                    {
+                        "name": "GRUP 25",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-25"
+                    },
+                    {
+                        "name": "GRUP 26",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-26"
+                    },
+                    {
+                        "name": "GRUP 27",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-27"
+                    },
+                    {
+                        "name": "GRUP 28",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-28"
+                    },
+                    {
+                        "name": "GRUP 29",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-29"
+                    },
+                    {
+                        "name": "GRUP 30",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-30"
+                    },
+                    {
+                        "name": "GRUP 31",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-31"
+                    },
+                    {
+                        "name": "GRUP 32",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-32"
+                    },
+                    {
+                        "name": "GRUP 33",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-33"
+                    },
+                    {
+                        "name": "GRUP 34",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-34"
+                    },
+                    {
+                        "name": "GRUP 35",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-35"
+                    },
+                    {
+                        "name": "GRUP 36",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-36"
+                    },
+                    {
+                        "name": "GRUP 37",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-37"
+                    },
+                    {
+                        "name": "GRUP 38",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-38"
+                    },
+                    {
+                        "name": "GRUP 39",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-39"
+                    },
+                    {
+                        "name": "GRUP 40",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-40"
+                    },
+                    {
+                        "name": "GRUP 41",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-41"
+                    },
+                    {
+                        "name": "GRUP 42",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-42"
+                    },
+                    {
+                        "name": "GRUP 43",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-43"
+                    },
+                    {
+                        "name": "GRUP 44",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-44"
+                    },
+                    {
+                        "name": "GRUP 45",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-45"
+                    },
+                    {
+                        "name": "GRUP 46",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/juvenil-segona-divisio/grup-46"
+                    }
+                ]
+            },
+            {
+                "name": "DIVISIÓ HONOR CADET",
+                "id": "43980438",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/divisio-honor-cadet/grup-1"
+                    }
+                ]
+            },
+            {
+                "name": "PREFERENT CADET",
+                "id": "43980439",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-cadet/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-cadet/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-cadet/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-cadet/grup-4"
+                    }
+                ]
+            },
+            {
+                "name": "CADET PRIMERA DIVISIÓ",
+                "id": "43980440",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-primera-divisio/grup-17"
+                    }
+                ]
+            },
+            {
+                "name": "CADET SEGONA DIVISIÓ",
+                "id": "43980441",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-18"
+                    },
+                    {
+                        "name": "GRUP 19",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-19"
+                    },
+                    {
+                        "name": "GRUP 20",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-20"
+                    },
+                    {
+                        "name": "GRUP 21",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-21"
+                    },
+                    {
+                        "name": "GRUP 22",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-22"
+                    },
+                    {
+                        "name": "GRUP 23",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-23"
+                    },
+                    {
+                        "name": "GRUP 24",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-24"
+                    },
+                    {
+                        "name": "GRUP 25",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-25"
+                    },
+                    {
+                        "name": "GRUP 26",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-26"
+                    },
+                    {
+                        "name": "GRUP 27",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-27"
+                    },
+                    {
+                        "name": "GRUP 28",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-28"
+                    },
+                    {
+                        "name": "GRUP 29",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-29"
+                    },
+                    {
+                        "name": "GRUP 30",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-30"
+                    },
+                    {
+                        "name": "GRUP 31",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-31"
+                    },
+                    {
+                        "name": "GRUP 32",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-32"
+                    },
+                    {
+                        "name": "GRUP 33",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-33"
+                    },
+                    {
+                        "name": "GRUP 34",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-34"
+                    },
+                    {
+                        "name": "GRUP 35",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-35"
+                    },
+                    {
+                        "name": "GRUP 36",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-36"
+                    },
+                    {
+                        "name": "GRUP 37",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-37"
+                    },
+                    {
+                        "name": "GRUP 38",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-38"
+                    },
+                    {
+                        "name": "GRUP 39",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-39"
+                    },
+                    {
+                        "name": "GRUP 40",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-40"
+                    },
+                    {
+                        "name": "GRUP 41",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-41"
+                    },
+                    {
+                        "name": "GRUP 42",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-42"
+                    },
+                    {
+                        "name": "GRUP 43",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-43"
+                    },
+                    {
+                        "name": "GRUP 44",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-44"
+                    },
+                    {
+                        "name": "GRUP 45",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-45"
+                    },
+                    {
+                        "name": "GRUP 46",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-46"
+                    },
+                    {
+                        "name": "GRUP 47",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-47"
+                    },
+                    {
+                        "name": "GRUP 48",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-48"
+                    },
+                    {
+                        "name": "GRUP 49",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-49"
+                    },
+                    {
+                        "name": "GRUP 50",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/cadet-segona-divisio/grup-50"
+                    }
+                ]
+            },
+            {
+                "name": "COPA LLEIDA INFANTIL - FASE FINAL",
+                "id": "45000547",
+                "groups": [
+                    {
+                        "name": "FASE FINAL",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/copa-lleida-infantil-fase-final/fase-final"
+                    }
+                ]
+            },
+            {
+                "name": "DIVISIÓ HONOR INFANTIL",
+                "id": "43980442",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/divisio-honor-infantil/grup-1"
+                    }
+                ]
+            },
+            {
+                "name": "COPA LLEIDA INFANTIL",
+                "id": "44510151",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-11/copa-lleida-infantil/grup-1"
+                    }
+                ]
+            },
+            {
+                "name": "PREFERENT INFANTIL",
+                "id": "43980443",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-infantil/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-infantil/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-infantil/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/preferent-infantil/grup-4"
+                    }
+                ]
+            },
+            {
+                "name": "INFANTIL PRIMERA DIVISIÓ",
+                "id": "43980444",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-primera-divisio/grup-18"
+                    }
+                ]
+            },
+            {
+                "name": "INFANTIL SEGONA DIVISIÓ",
+                "id": "43980445",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-18"
+                    },
+                    {
+                        "name": "GRUP 19",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-19"
+                    },
+                    {
+                        "name": "GRUP 20",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-20"
+                    },
+                    {
+                        "name": "GRUP 21",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-21"
+                    },
+                    {
+                        "name": "GRUP 22",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-22"
+                    },
+                    {
+                        "name": "GRUP 23",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-23"
+                    },
+                    {
+                        "name": "GRUP 24",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-24"
+                    },
+                    {
+                        "name": "GRUP 25",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-25"
+                    },
+                    {
+                        "name": "GRUP 26",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-26"
+                    },
+                    {
+                        "name": "GRUP 27",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-27"
+                    },
+                    {
+                        "name": "GRUP 28",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-28"
+                    },
+                    {
+                        "name": "GRUP 29",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-29"
+                    },
+                    {
+                        "name": "GRUP 61",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-11/infantil-segona-divisio/grup-61"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futbol 7",
+        "id": "19308235",
+        "competitions": [
+            {
+                "name": "PREFERENT ALEVÍ",
+                "id": "43990457",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-alevi/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-alevi/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-alevi/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-alevi/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-alevi/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-alevi/grup-6"
+                    }
+                ]
+            },
+            {
+                "name": "ALEVÍ PRIMERA DIVISIÓ",
+                "id": "43990520",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-primera-divisio/grup-15"
+                    }
+                ]
+            },
+            {
+                "name": "ALEVÍ SEGONA DIVISIÓ",
+                "id": "43990541",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-18"
+                    },
+                    {
+                        "name": "GRUP 19",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-19"
+                    },
+                    {
+                        "name": "GRUP 22",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-22"
+                    },
+                    {
+                        "name": "GRUP 23",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-23"
+                    },
+                    {
+                        "name": "GRUP 24",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-24"
+                    },
+                    {
+                        "name": "GRUP 25",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-25"
+                    },
+                    {
+                        "name": "GRUP 26",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-26"
+                    },
+                    {
+                        "name": "GRUP 27",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-27"
+                    },
+                    {
+                        "name": "GRUP 28",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-28"
+                    },
+                    {
+                        "name": "GRUP 29",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-29"
+                    },
+                    {
+                        "name": "GRUP 30",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-30"
+                    },
+                    {
+                        "name": "GRUP 31",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-31"
+                    },
+                    {
+                        "name": "GRUP 32",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-32"
+                    },
+                    {
+                        "name": "GRUP 33",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-33"
+                    },
+                    {
+                        "name": "GRUP 34",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-34"
+                    },
+                    {
+                        "name": "GRUP 35",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-35"
+                    },
+                    {
+                        "name": "GRUP 36",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-36"
+                    },
+                    {
+                        "name": "GRUP 37",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-segona-divisio/grup-37"
+                    }
+                ]
+            },
+            {
+                "name": "ALEVÍ TERCERA DIVISIÓ",
+                "id": "43990569",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/alevi-tercera-divisio/grup-13"
+                    }
+                ]
+            },
+            {
+                "name": "PREFERENT BENJAMÍ",
+                "id": "43990595",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-benjami/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-benjami/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-benjami/grup-3"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-benjami/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-benjami/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/preferent-benjami/grup-7"
+                    }
+                ]
+            },
+            {
+                "name": "BENJAMÍ 7 PRIMERA DIVISIÓ",
+                "id": "43990605",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-18"
+                    },
+                    {
+                        "name": "GRUP 19",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-19"
+                    },
+                    {
+                        "name": "GRUP 20",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-20"
+                    },
+                    {
+                        "name": "GRUP 21",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-21"
+                    },
+                    {
+                        "name": "GRUP 22",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-22"
+                    },
+                    {
+                        "name": "GRUP 23",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-primera-divisio/grup-23"
+                    }
+                ]
+            },
+            {
+                "name": "BENJAMÍ 7 SEGONA DIVISIÓ",
+                "id": "43990651",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-4"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-5"
+                    },
+                    {
+                        "name": "GRUP 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-6"
+                    },
+                    {
+                        "name": "GRUP 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-7"
+                    },
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-9"
+                    },
+                    {
+                        "name": "GRUP 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-10"
+                    },
+                    {
+                        "name": "GRUP 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-11"
+                    },
+                    {
+                        "name": "GRUP 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-12"
+                    },
+                    {
+                        "name": "GRUP 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-13"
+                    },
+                    {
+                        "name": "GRUP 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-14"
+                    },
+                    {
+                        "name": "GRUP 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-15"
+                    },
+                    {
+                        "name": "GRUP 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-16"
+                    },
+                    {
+                        "name": "GRUP 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-17"
+                    },
+                    {
+                        "name": "GRUP 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/benjami-7-segona-divisio/grup-18"
+                    }
+                ]
+            },
+            {
+                "name": "PREBENJAMÍ 7",
+                "id": "43990862",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/prebenjami-7/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/prebenjami-7/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/prebenjami-7/grup-3"
+                    },
+                    {
+                        "name": "GRUP 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-7/prebenjami-7/grup-4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futbol 5",
+        "id": "24885364",
+        "competitions": []
+    },
+    {
+        "name": "Futbol Sala",
+        "id": "19308236",
+        "competitions": [
+            {
+                "name": "FASE FINAL COPA CATALUNYA SENIOR MASCULÍ FUTBOL SALA",
+                "id": "44838857",
+                "groups": [
+                    {
+                        "name": "ELIMINATORIES",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala/fase-final-copa-catalunya-senior-masculi-futbol-sala/eliminatories"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA DIVISIÓ NACIONAL FUTBOL SALA",
+                "id": "44278790",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC ",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-divisio-nacional-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA DIVISIÓ NACIONAL FUTBOL SALA",
+                "id": "44278826",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC ",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/segona-divisio-nacional-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA DIVISIÓ B NACIONAL FUTBOL SALA",
+                "id": "44278856",
+                "groups": [
+                    {
+                        "name": "GRUP 3 ",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/segona-divisio-b-nacional-futbol-sala/grup-3"
+                    }
+                ]
+            },
+            {
+                "name": "5ª EDICIÓ MEMORIAL QUIM SALA",
+                "id": "44622795",
+                "groups": [
+                    {
+                        "name": "CATEGORIA SÈNIOR MASCULI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala/5a-edicio-memorial-quim-sala/categoria-senior-masculi"
+                    },
+                    {
+                        "name": "CATEGORIA JUVENIL MASCULI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala/5a-edicio-memorial-quim-sala/categoria-juvenil-masculi"
+                    },
+                    {
+                        "name": "CATEGORIA CADET MASCULI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala/5a-edicio-memorial-quim-sala/categoria-cadet-masculi"
+                    },
+                    {
+                        "name": "CATEGORIA SÈNIOR FEMENI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala/5a-edicio-memorial-quim-sala/categoria-senior-femeni"
+                    }
+                ]
+            },
+            {
+                "name": "TERCERA DIVISIÓ NACIONAL FUTBOL SALA",
+                "id": "44278900",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/tercera-divisio-nacional-futbol-sala/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/tercera-divisio-nacional-futbol-sala/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR CATALANA FUTBOL SALA",
+                "id": "44278978",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-catalana-futbol-sala/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-catalana-futbol-sala/grup-2"
+                    },
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-catalana-futbol-sala/grup-3"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ CATALANA FUTBOL SALA",
+                "id": "44279697",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "GIR Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/gir-gr-4"
+                    },
+                    {
+                        "name": "LLE Gr.5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/lle-gr5"
+                    },
+                    {
+                        "name": "TGN Gr. 6 A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/tgn-gr-6-a"
+                    },
+                    {
+                        "name": "TGN Gr. 6 B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-catalana-futbol-sala/tgn-gr-6-b"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA SEGONA DIVISIÓ CATALANA FUTBOL SALA",
+                "id": "44279769",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "GIR Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/gir-gr-7"
+                    },
+                    {
+                        "name": "GIR Gr. 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/gir-gr-8"
+                    },
+                    {
+                        "name": "LLE Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/lle-gr-9"
+                    },
+                    {
+                        "name": "TGN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/tgn-gr-11"
+                    },
+                    {
+                        "name": "TGN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/tgn-gr-12"
+                    },
+                    {
+                        "name": "TGN Gr. 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-catalana-futbol-sala/tgn-gr-13"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA TERCERA DIVISIÓ CATALANA FUTBOL SALA",
+                "id": "44279861",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-7"
+                    },
+                    {
+                        "name": "BCN Gr. 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-8"
+                    },
+                    {
+                        "name": "BCN Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-9"
+                    },
+                    {
+                        "name": "BCN Gr. 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-10"
+                    },
+                    {
+                        "name": "BCN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-11"
+                    },
+                    {
+                        "name": "BCN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-12"
+                    },
+                    {
+                        "name": "BCN Gr. 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/bcn-gr-13"
+                    },
+                    {
+                        "name": "LLE Gr.17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/lle-gr17"
+                    },
+                    {
+                        "name": "LLE Gr.18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-catalana-futbol-sala/lle-gr18"
+                    }
+                ]
+            },
+            {
+                "name": "DIVISIÓ HONOR JUVENIL NACIONAL FUTBOL SALA",
+                "id": "44279964",
+                "groups": [
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/divisio-honor-juvenil-nacional-futbol-sala/grup-3"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR JUVENIL FUTBOL SALA",
+                "id": "44280016",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-juvenil-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ JUVENIL FUTBOL SALA",
+                "id": "44280042",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-juvenil-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-juvenil-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-juvenil-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "GIR Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-juvenil-futbol-sala/gir-gr-4"
+                    },
+                    {
+                        "name": "LLE Gr.5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-juvenil-futbol-sala/lle-gr5"
+                    },
+                    {
+                        "name": "TGN Gr  6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-juvenil-futbol-sala/tgn-gr-6"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA SEGONA DIVISIÓ JUVENIL FUTBOL SALA",
+                "id": "44280056",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "LLE Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/lle-gr-9"
+                    },
+                    {
+                        "name": "TGN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/tgn-gr-11"
+                    },
+                    {
+                        "name": "TGN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-juvenil-futbol-sala/tgn-gr-12"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA TERCERA DIVISIÓ JUVENIL FUTBOL SALA",
+                "id": "44280080",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-7"
+                    },
+                    {
+                        "name": "BCN Gr. 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-8"
+                    },
+                    {
+                        "name": "BCN Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-9"
+                    },
+                    {
+                        "name": "BCN Gr. 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-10"
+                    },
+                    {
+                        "name": "BCN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-juvenil-futbol-sala/bcn-gr-11"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR CADET FUTBOL SALA",
+                "id": "44280146",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-cadet-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ CADET FUTBOL SALA",
+                "id": "44280170",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-cadet-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-cadet-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-cadet-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "GIR Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-cadet-futbol-sala/gir-gr-4"
+                    },
+                    {
+                        "name": "LLE Gr.5 ",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-cadet-futbol-sala/lle-gr5"
+                    },
+                    {
+                        "name": "TGN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-cadet-futbol-sala/tgn-gr-6"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA SEGONA DIVISIÓ CADET FUTBOL SALA",
+                "id": "44280202",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "LLE Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/lle-gr-9"
+                    },
+                    {
+                        "name": "TGN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/tgn-gr-11"
+                    },
+                    {
+                        "name": "TGN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-cadet-futbol-sala/tgn-gr-12"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA TERCERA DIVISIÓ CADET  FUTBOL SALA",
+                "id": "44280221",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-7"
+                    },
+                    {
+                        "name": "BCN Gr. 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-8"
+                    },
+                    {
+                        "name": "BCN Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-cadet-futbol-sala/bcn-gr-9"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR INFANTIL FUTBOL SALA",
+                "id": "44280259",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-infantil-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ INFANTIL FUTBOL SALA",
+                "id": "44280304",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-infantil-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-infantil-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-infantil-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "GIR Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-infantil-futbol-sala/gir-gr-4"
+                    },
+                    {
+                        "name": "LLE Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-infantil-futbol-sala/lle-gr-5"
+                    },
+                    {
+                        "name": "TGN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-infantil-futbol-sala/tgn-gr-6"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA SEGONA DIVISIÓ INFANTIL FUTBOL SALA",
+                "id": "44280313",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "GIR Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/gir-gr-7"
+                    },
+                    {
+                        "name": "LLE Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/lle-gr-9"
+                    },
+                    {
+                        "name": "LLE Gr.10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/lle-gr10"
+                    },
+                    {
+                        "name": "TGN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/tgn-gr-11"
+                    },
+                    {
+                        "name": "TGN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-infantil-futbol-sala/tgn-gr-12"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA TERCERA DIVISIÓ INFANTIL  FUTBOL SALA",
+                "id": "44280339",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-7"
+                    },
+                    {
+                        "name": "BCN Gr 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-8"
+                    },
+                    {
+                        "name": "BCN Gr 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-infantil-futbol-sala/bcn-gr-9"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR ALEVÍ FUTBOL SALA",
+                "id": "44280402",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-divisio-honor-alevi-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ ALEVÍ FUTBOL SALA",
+                "id": "44280424",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-alevi-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-alevi-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-alevi-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "GIR Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-alevi-futbol-sala/gir-gr-4"
+                    },
+                    {
+                        "name": "LLE Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-alevi-futbol-sala/lle-gr-5"
+                    },
+                    {
+                        "name": "TGN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-primera-divisio-alevi-futbol-sala/tgn-gr-6"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA SEGONA DIVISIÓ ALEVÍ FUTBOL SALA",
+                "id": "44280495",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "GIR Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/gir-gr-7"
+                    },
+                    {
+                        "name": "LLE Gr.9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/lle-gr9"
+                    },
+                    {
+                        "name": "TGN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/tgn-gr-11"
+                    },
+                    {
+                        "name": "TGN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-segona-divisio-alevi-futbol-sala/tgn-gr-12"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA TERCERA DIVISIÓ ALEVÍ  FUTBOL SALA",
+                "id": "44280554",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-alevi-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-alevi-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-alevi-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-alevi-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-tercera-divisio-alevi-futbol-sala/bcn-gr-5"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA BENJAMÍ FUTBOL SALA",
+                "id": "44280573",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-7"
+                    },
+                    {
+                        "name": "BCN Gr. 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-8"
+                    },
+                    {
+                        "name": "BCN Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-9"
+                    },
+                    {
+                        "name": "BCN Gr. 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-10"
+                    },
+                    {
+                        "name": "BCN Gr. 11",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-11"
+                    },
+                    {
+                        "name": "BCN Gr. 12",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-12"
+                    },
+                    {
+                        "name": "BCN Gr. 13",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-13"
+                    },
+                    {
+                        "name": "BCN Gr. 14",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-14"
+                    },
+                    {
+                        "name": "BCN Gr. 15",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-15"
+                    },
+                    {
+                        "name": "BCN Gr. 16",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-16"
+                    },
+                    {
+                        "name": "BCN Gr. 17",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/bcn-gr-17"
+                    },
+                    {
+                        "name": "GIR Gr. 18",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/gir-gr-18"
+                    },
+                    {
+                        "name": "GIR Gr. 19",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/gir-gr-19"
+                    },
+                    {
+                        "name": "GIR Gr. 20",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/gir-gr-20"
+                    },
+                    {
+                        "name": "LLE Gr.24",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/lle-gr24"
+                    },
+                    {
+                        "name": "LLE Gr.25",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/lle-gr25"
+                    },
+                    {
+                        "name": "LLE Gr.26",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/lle-gr26"
+                    },
+                    {
+                        "name": "LLE Gr.27",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/lle-gr27"
+                    },
+                    {
+                        "name": "TGN Gr. 28",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/tgn-gr-28"
+                    },
+                    {
+                        "name": "TGN Gr. 29",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-benjami-futbol-sala/tgn-gr-29"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA MINIBENJAMÍ FUTBOL SALA",
+                "id": "44280590",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-minibenjami-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-minibenjami-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-minibenjami-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-minibenjami-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-minibenjami-futbol-sala/bcn-gr-5"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PREBENJAMÍ FUTBOL SALA",
+                "id": "44280600",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr. 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr. 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-7"
+                    },
+                    {
+                        "name": "BCN Gr. 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/bcn-gr-8"
+                    },
+                    {
+                        "name": "GIR Gr. 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/gir-gr-9"
+                    },
+                    {
+                        "name": "GIR Gr. 10",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/gir-gr-10"
+                    },
+                    {
+                        "name": "Adherida TGNA",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-prebenjami-futbol-sala/adherida-tgna"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA MINIPREBENJAMÍ FUTBOL SALA",
+                "id": "44280601",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-miniprebenjami-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-miniprebenjami-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/lliga-miniprebenjami-futbol-sala/bcn-gr-3"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA FASE COPA GIRONA SÈNIOR",
+                "id": "45312182",
+                "groups": [
+                    {
+                        "name": "GRUP A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-senior/grup-a"
+                    },
+                    {
+                        "name": "GRUP B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-senior/grup-b"
+                    },
+                    {
+                        "name": "GRUP C",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-senior/grup-c"
+                    },
+                    {
+                        "name": "GRUP D",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-senior/grup-d"
+                    },
+                    {
+                        "name": "GRUP E",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-senior/grup-e"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA FASE COPA GIRONA JUVENIL",
+                "id": "45313498",
+                "groups": [
+                    {
+                        "name": "GRUP A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-juvenil/grup-a"
+                    },
+                    {
+                        "name": "GRUP B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-juvenil/grup-b"
+                    },
+                    {
+                        "name": "GRUP C",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-juvenil/grup-c"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA FASE COPA GIRONA CADET",
+                "id": "45313607",
+                "groups": [
+                    {
+                        "name": "GRUP A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-cadet/grup-a"
+                    },
+                    {
+                        "name": "GRUP B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-cadet/grup-b"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA FASE COPA GIRONA INFANTIL",
+                "id": "45313868",
+                "groups": [
+                    {
+                        "name": "GRUP A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-infantil/grup-a"
+                    },
+                    {
+                        "name": "GRUP B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-infantil/grup-b"
+                    },
+                    {
+                        "name": "GRUP C",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-infantil/grup-c"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA FASE COPA GIRONA ALEVÍ",
+                "id": "45313787",
+                "groups": [
+                    {
+                        "name": "GRUP A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-alevi/grup-a"
+                    },
+                    {
+                        "name": "GRUP B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-alevi/grup-b"
+                    },
+                    {
+                        "name": "GRUP C",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-alevi/grup-c"
+                    },
+                    {
+                        "name": "GRUP D",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala/primera-fase-copa-girona-alevi/grup-d"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futbol Femen�",
+        "id": "19308237",
+        "competitions": [
+            {
+                "name": "PRIMERA DIVISIÓ NACIONAL FUTBOL FEMENÍ",
+                "id": "44661556",
+                "groups": [
+                    {
+                        "name": "GRUP 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-nacional-futbol-femeni/grup-3"
+                    }
+                ]
+            },
+            {
+                "name": "COPA CATALUNYA FEMENINA",
+                "id": "44110526",
+                "groups": [
+                    {
+                        "name": "Quadrant",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Femení/copa-catalunya-femenina/quadrant"
+                    }
+                ]
+            },
+            {
+                "name": "PREFERENT FEMENÍ",
+                "id": "43991067",
+                "groups": [
+                    {
+                        "name": "SUBGRUP 1.A",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/preferent-femeni/subgrup-1a"
+                    },
+                    {
+                        "name": "SUBGRUP 1.B",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/preferent-femeni/subgrup-1b"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA DIVISIÓ FEMENÍ",
+                "id": "43991160",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "FEMENÍ AMATEUR F-7",
+                "id": "43991502",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/femeni-amateur-f-7/grup-1"
+                    },
+                    {
+                        "name": "GRUP 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/femeni-amateur-f-7/grup-5"
+                    }
+                ]
+            },
+            {
+                "name": "PREFERENT FEMENÍ JUVENIL",
+                "id": "44294877",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/preferent-femeni-juvenil/grup-1"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA DIVISIÓ FEMENÍ JUVENIL",
+                "id": "44308068",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni-juvenil/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni-juvenil/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA DIVISIÓ FEMENÍ JUVENIL",
+                "id": "44308138",
+                "groups": [
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/segona-divisio-femeni-juvenil/grup-9"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA DIVISIÓ FEMENÍ INFANTIL",
+                "id": "44308199",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni-infantil/grup-1"
+                    },
+                    {
+                        "name": "GRUP 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni-infantil/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA DIVISIÓ FEMENÍ INFANTIL",
+                "id": "44308225",
+                "groups": [
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/segona-divisio-femeni-infantil/grup-9"
+                    }
+                ]
+            },
+            {
+                "name": "PRIMERA DIVISIÓ FEMENI ALEVÍ",
+                "id": "44308244",
+                "groups": [
+                    {
+                        "name": "GRUP 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/primera-divisio-femeni-alevi/grup-1"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA DIVISIÓ FEMENÍ ALEVÍ",
+                "id": "44308263",
+                "groups": [
+                    {
+                        "name": "GRUP 8",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/segona-divisio-femeni-alevi/grup-8"
+                    },
+                    {
+                        "name": "GRUP 9",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Femení/segona-divisio-femeni-alevi/grup-9"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futbol Sala Femen�",
+        "id": "24694879",
+        "competitions": [
+            {
+                "name": "5ª EDICIÓ MEMORIAL QUIM SALA",
+                "id": "44622795",
+                "groups": [
+                    {
+                        "name": "CATEGORIA SÈNIOR MASCULI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala Femení/5a-edicio-memorial-quim-sala/categoria-senior-masculi"
+                    },
+                    {
+                        "name": "CATEGORIA JUVENIL MASCULI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala Femení/5a-edicio-memorial-quim-sala/categoria-juvenil-masculi"
+                    },
+                    {
+                        "name": "CATEGORIA CADET MASCULI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala Femení/5a-edicio-memorial-quim-sala/categoria-cadet-masculi"
+                    },
+                    {
+                        "name": "CATEGORIA SÈNIOR FEMENI",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala Femení/5a-edicio-memorial-quim-sala/categoria-senior-femeni"
+                    }
+                ]
+            },
+            {
+                "name": "FINAL COPA CATALUNYA SENIOR FEMENÍ FUTBOL SALA",
+                "id": "44838462",
+                "groups": [
+                    {
+                        "name": "FINAL",
+                        "url": "https://www.fcf.cat/copa/2223/Futbol-Sala Femení/final-copa-catalunya-senior-femeni-futbol-sala/final"
+                    }
+                ]
+            },
+            {
+                "name": "SEGONA DIVISIÓ NACIONAL FEMENÍ FUTBOL SALA",
+                "id": "44280616",
+                "groups": [
+                    {
+                        "name": "GRUP 2 ",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/segona-divisio-nacional-femeni-futbol-sala/grup-2"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR FEMENÍ FUTBOL SALA",
+                "id": "44280620",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-divisio-honor-femeni-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ FEMENÍ FUTBOL SALA",
+                "id": "44280621",
+                "groups": [
+                    {
+                        "name": "BCN Gr. 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-primera-divisio-femeni-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr. 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-primera-divisio-femeni-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "LLE-TGN Gr. 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-primera-divisio-femeni-futbol-sala/lle-tgn-gr-3"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA SEGONA DIVISIÓ FEMENÍ FUTBOL SALA",
+                "id": "44280629",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-segona-divisio-femeni-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-segona-divisio-femeni-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-segona-divisio-femeni-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-segona-divisio-femeni-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "LLE Gr. 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-segona-divisio-femeni-futbol-sala/lle-gr-5"
+                    },
+                    {
+                        "name": "TGN Gr. 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-segona-divisio-femeni-futbol-sala/tgn-gr-7"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA DIVISIÓ HONOR JUVENIL FEMENÍ FUTBOL SALA",
+                "id": "44280630",
+                "groups": [
+                    {
+                        "name": "GRUP UNIC",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-divisio-honor-juvenil-femeni-futbol-sala/grup-unic"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA PRIMERA DIVISIÓ JUVENIL FEMENÍ FUTBOL SALA",
+                "id": "44280638",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-primera-divisio-juvenil-femeni-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-primera-divisio-juvenil-femeni-futbol-sala/bcn-gr-2"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA CADET FEMENÍ FUTBOL SALA",
+                "id": "45396876",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-cadet-femeni-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-cadet-femeni-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-cadet-femeni-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-cadet-femeni-futbol-sala/bcn-gr-4"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA INFANTIL FEMENÍ FUTBOL SALA",
+                "id": "45396822",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-4"
+                    },
+                    {
+                        "name": "BCN Gr 5",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-5"
+                    },
+                    {
+                        "name": "BCN Gr 6",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-6"
+                    },
+                    {
+                        "name": "BCN Gr 7",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-infantil-femeni-futbol-sala/bcn-gr-7"
+                    }
+                ]
+            },
+            {
+                "name": "LLIGA ALEVÍ FEMENÍ FUTBOL SALA",
+                "id": "45396760",
+                "groups": [
+                    {
+                        "name": "BCN Gr 1",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-alevi-femeni-futbol-sala/bcn-gr-1"
+                    },
+                    {
+                        "name": "BCN Gr 2",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-alevi-femeni-futbol-sala/bcn-gr-2"
+                    },
+                    {
+                        "name": "BCN Gr 3",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-alevi-femeni-futbol-sala/bcn-gr-3"
+                    },
+                    {
+                        "name": "BCN Gr 4",
+                        "url": "https://www.fcf.cat/resultats/2223/Futbol-Sala Femení/lliga-alevi-femeni-futbol-sala/bcn-gr-4"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Futbol Platja",
+        "id": "19308239",
+        "competitions": []
+    }
+]

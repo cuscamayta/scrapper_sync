@@ -14,8 +14,8 @@ export class FileService {
             .then(res => <TreeNode[]>res.data);
     }
 
-    getTypes() {
-        return this.http.get<any>('../../../assets/data/madrid/types.json')
+    getTypes(federation) {
+        return this.http.get<any>(`../../../assets/data/${federation}/types.json`)
             .toPromise()
             .then(res => <TreeNode[]>res);
     }

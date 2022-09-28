@@ -1,0 +1,34 @@
+{
+    "federacion":"madrid",
+    "temporada" :"2021-2022",
+    "categories":[
+        {
+            "name": "futbol-11",
+            "value": "1",
+            "label": "Futbol-11",
+            "level":"type",
+            "groupCompetitions":[]
+        },
+        {
+            "name": "futbol-7",
+            "value": "2",
+            "label": "Futbol-7",
+            "level":"type",
+            "groupCompetitions":[]
+        },
+        {
+            "name": "futbol-5",
+            "value": "3",
+            "label": "F�tbol-5",
+            "level":"type",
+            "groupCompetitions":[]
+        },
+        {
+            "name": "futbol-playa",
+            "value": "5",
+            "label": "F�tbol-Playa",
+            "level":"type",
+            "groupCompetitions":[]
+        }
+    ]
+}

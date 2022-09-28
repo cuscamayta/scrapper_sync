@@ -69,6 +69,9 @@ export class MadridComponent implements OnInit {
             child3.expandedIcon = "pi pi-chevron-circle-up";
             child3.collapsedIcon = "pi pi-chevron-circle-down";
             child3.children = child3.matches
+            if (!child3) {
+              console.log(child3);
+            }
             for (let child4 of child3.children) {
               child4.data = child4.name;
               child4.label = child4.date;
@@ -88,8 +91,8 @@ export class MadridComponent implements OnInit {
     this.loadInformationByType(nodeName);
   }
 
-  matchesInJourney =[];
-  loadJourneySelected(information){
+  matchesInJourney = [];
+  loadJourneySelected(information) {
     this.matchesInJourney = information;
   }
 
@@ -162,7 +165,11 @@ export class MadridComponent implements OnInit {
 
   types = [];
   loadTypes() {
-    this.fileSystem.getTypes().then(types => this.types = types);
+    debugger;
+    this.fileSystem.getTypes('madrid').then(types => {
+      this.types = types
+      this.convertToTree(this.types);
+    });    
   }
 
   loadInformationByType(typeName) {
