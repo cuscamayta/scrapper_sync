@@ -1,3 +1,18 @@
+<!-- <div *ngIf="showLoader$ | async as showLoader">
+  <app-loading *ngIf="showLoader"></app-loading>
+</div> -->
+<div *ngIf="loaderService.loadingSubject | async"  class="row">
+  <app-loading></app-loading>
+</div>
+
+<p-dialog [header]="headerDisplay" [(visible)]="displayPosition" [position]="position" [modal]="true" [style]="{width: '50vw'}"
+[draggable]="false" [resizable]="false">
+  <p>{{displayContent}}</p>
+  <ng-template pTemplate="footer">
+      <p-button icon="pi pi-check" (click)="displayPosition=false" label="Ok" styleClass="p-button-text"></p-button>
+  </ng-template>
+</p-dialog>
+
 <div class="row">
 
   <div class="col-lg-12 title-container">
@@ -20,6 +35,10 @@
             </ng-template>
           </p-tree>
         </div>
+        <div>
+          <button pButton class="p-button-secondary button-margin" type="button" label="Enviar Informacion"
+            (click)="sendData(selectedFiles2)"></button>
+        </div>
       </div>
     </div>
   </div>
@@ -29,7 +48,10 @@
         <h4 class="card-title">Informacion</h4>
         <p-accordion>
           <p-accordionTab *ngFor="let match of matchesInJourney; let i = index">
-            <ng-template pTemplate="header"><div class="match-title">{{match.local.name}} vs {{match.visitor.name}}</div> <div class="match-date">{{match.date}} - {{match.time}}</div></ng-template>
+            <ng-template pTemplate="header">
+              <div class="match-title">{{match.local.name}} vs {{match.visitor.name}}</div>
+              <div class="match-date">{{match.date}} - {{match.time}}</div>
+            </ng-template>
             <div class="table-responsive">
               <ngb-tabset>
                 <ngb-tab title="Detalles">
@@ -57,7 +79,7 @@
                             <tr>
                               <td><strong>Url Comparativo</strong></td>
                               <td>{{match.reportComparative}}</td>
-                            </tr>                        
+                            </tr>
                           </tbody>
                         </table>
                       </div>
@@ -73,15 +95,15 @@
                             <tr>
                               <th>Nombre</th>
                               <th>Numero</th>
-                              <th>Url</th>                              
+                              <th>Url</th>
                             </tr>
                           </thead>
                           <tbody>
                             <tr *ngFor="let player of match.local.playerLineup; let i = index">
                               <td>{{player.name}}</td>
                               <td>{{player.number}}</td>
-                              <td>{{player.url}}</td>                              
-                            </tr>                   
+                              <td>{{player.url}}</td>
+                            </tr>
                           </tbody>
                         </table>
                       </div>
@@ -97,15 +119,15 @@
                             <tr>
                               <th>Nombre</th>
                               <th>Numero</th>
-                              <th>Url</th>                              
+                              <th>Url</th>
                             </tr>
                           </thead>
                           <tbody>
                             <tr *ngFor="let player of match.visitor.playerLineup; let i = index">
                               <td>{{player.name}}</td>
                               <td>{{player.number}}</td>
-                              <td>{{player.url}}</td>                              
-                            </tr>                   
+                              <td>{{player.url}}</td>
+                            </tr>
                           </tbody>
                         </table>
                       </div>

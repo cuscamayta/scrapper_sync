@@ -4,6 +4,12 @@ import { FederationService } from '../../services/federation.service';
 import * as madrid from '../../../../../assets/data/madrid.json';
 // import * as clubs from '../../../../../assets/data/clubs.json';
 import { FileService } from '../../services/fileService';
+import { FBaseApiService } from '../../services/fbase-api.service';
+import { LoaderService } from '../../services/loader.service';
+import { delay } from 'rxjs/operators';
+import { Observable } from 'rxjs';
+import { DialogModule } from 'primeng/dialog';
+import { environment } from '../../../../../environments/environment';
 
 @Component({
   selector: 'app-madrid',
@@ -12,33 +18,36 @@ import { FileService } from '../../services/fileService';
 })
 export class MadridComponent implements OnInit {
 
-  files1: TreeNode[];
-
-  files2: TreeNode[];
-
-  files3: TreeNode[];
-
-  selectedFile: TreeNode;
-
-  selectedFiles1: TreeNode;
-
   selectedFiles2: TreeNode;
   toastService: any;
+
   clubs = [];
+  isClubsLoaded = false;
+  types = [];
+
+  displayPosition: boolean = false;
+  position: string = 'bottom-right';
+  displayContent: string = '';
+  headerDisplay: string = '';
+
   currentTeam: any = {
     correspondence: {},
     mainEquipment: {}
   };
 
+  showLoader = false;
+  showLoader$ = this.loaderService.loadingSubject;
+
   constructor(
     private federationService: FederationService,
     private messageService: MessageService,
-    private fileSystem: FileService
+    private fileSystem: FileService,
+    private fbaseApiService: FBaseApiService,
+    private loaderService: LoaderService
   ) { }
 
 
   ngOnInit() {
-    // this.files3 = <TreeNode[]>this.convertToTree(madrid['default']);
     this.loadTypes();
   }
 
@@ -81,9 +90,6 @@ export class MadridComponent implements OnInit {
         }
       }
     }
-
-    console.log(data);
-
     return data;
   }
 
@@ -97,18 +103,11 @@ export class MadridComponent implements OnInit {
   }
 
   nodeSelect(event) {
-    console.log('node selected');
-    console.log(event.node);
-
     switch (event.node.level) {
-      case 'type':
-        this.loadNodeTypeSelected(event.node.name);
-        break;
       case 'journey':
         this.loadJourneySelected(event.node.information);
         break;
     }
-
     return;
 
     if (event.node.type === 'team') {
@@ -161,15 +160,12 @@ export class MadridComponent implements OnInit {
       summary: 'Informacion Guardada correctamente'
     });
   }
-  isClubsLoaded = false;
 
-  types = [];
   loadTypes() {
-    debugger;
     this.fileSystem.getTypes('madrid').then(types => {
       this.types = types
-      this.convertToTree(this.types);
-    });    
+      this.convertToTree(types);
+    });
   }
 
   loadInformationByType(typeName) {
@@ -179,7 +175,6 @@ export class MadridComponent implements OnInit {
           type.groupCompetitions = typeData['groupCompetitions'];
         }
       })
-
       this.convertToTree(this.types);
     });
   }
@@ -191,4 +186,147 @@ export class MadridComponent implements OnInit {
     });
   }
 
+  loadDisplay(header: string, content: string) {
+    this.loaderService.hideLoader()
+    this.headerDisplay = header;
+    this.displayContent = content
+    this.displayPosition = true;
+  }
+
+  sendData(info) {
+    console.log(info);
+    if (info == undefined || info.length == 0) {
+      this.loadDisplay(
+        "Error al enviar datos de categoria.",
+        `No ha seleccionado ninguna categoria.`
+      );
+      return
+    }
+    let categories = [];
+    let resp = {};
+    const journeys = info.filter((v: { level: string; }) => v.level == "journey");
+    const journeysValidation = journeys.filter((j: { parent: any; }) => j.parent == undefined)
+    this.loaderService.showLoader();
+
+    
+    if (journeysValidation.length && journeysValidation.length > 0) {
+      this.loadDisplay(
+        "Envio Fallido",
+        `Debe desplegar las categorias hasta la mas minima expresión para evaluar que los datos que se enviarán esten correctos.`
+      );
+      return;
+    }
+
+    journeys.forEach(match => {
+      const group = match.parent;
+      const competition = match.parent.parent;
+      const groupCompetitions = match.parent.parent.parent;
+      const category = match.parent.parent.parent.parent;
+      let indexCate = -1, indexGrComp = -1, indexComp = -1;
+
+      const categoryCreated = categories.find((cat, index) => {
+        if (cat.name === category.name) {
+          indexCate = index;
+          return true;
+        }
+        return false;
+      });
+
+      if (categoryCreated != undefined && categoryCreated.name == category.name) {
+        let groupCompetitionsCreated = categoryCreated.groupCompetitions.find((gropuComp, index) => {
+          if (gropuComp.name === groupCompetitions.data) {
+            indexGrComp = index;
+            return true;
+          }
+          return false;
+        });
+        console.log('Encontro o no el gropup competition dentro de Categories', indexGrComp, groupCompetitionsCreated);
+        if (groupCompetitionsCreated != undefined && groupCompetitionsCreated.name == groupCompetitions.data) {
+          let competitionsCreated = groupCompetitionsCreated.competitions.find((comp: { name: any; }, index: any) => {
+            if (comp.name === competition.data) {
+              indexComp = index;
+              return true;
+            }
+            return false;
+          })
+
+          if (competitionsCreated != undefined && competitionsCreated.name == competition.data) {
+            let groupsCreated = competitionsCreated.groups.find(groups => groups.name === group.data)
+
+            if (groupsCreated != undefined && groupsCreated.name == group.data) {
+              // TODO: add matches
+            } else {
+              // Crea el objeto y groupsCreated.push(objeto)
+              groupsCreated = { "name": group.data };
+              categories[indexCate].groupCompetitions[indexGrComp].competitions[indexComp].groups.push(groupsCreated)
+            }
+
+          } else {
+            categories[indexCate].groupCompetitions[indexGrComp].competitions.push({
+              "name": competition.data,
+              "groups": [
+                { "name": group.data }
+              ]
+            });
+          }
+        } else {
+          categories[indexCate].groupCompetitions.push({
+            "name": groupCompetitions.data,
+            "competitions": [
+              {
+                "name": competition.data,
+                "groups": [
+                  { "name": group.data }
+                ]
+              }
+            ]
+          });
+        }
+      } else {
+        // Crea el objeto y categories.push(objeto)
+        categories.push({
+          "name": category.name,
+          "groupCompetitions": [
+            {
+              "name": groupCompetitions.data,
+              "competitions": [
+                {
+                  "name": competition.data,
+                  "groups": [
+                    { "name": group.data }
+                  ]
+                }
+              ]
+            }
+          ]
+        });
+      };
+    });
+
+    console.log(categories);
+
+    const response = this.fbaseApiService.upsertCategoriesBySeason({
+      "federation": "Madrid",
+      "season": "2023",
+      "categories": categories
+    }).subscribe(
+      res => {
+        this.loadDisplay(
+          "Datos enviados exitosamente",
+          `Los datos para la categoria Madrid con el ID: ${res.data.seasonData.seasonId} para la temporada 2022-2023`
+        );
+        resp = res;
+      },
+      err => {
+        console.error(err);
+        this.loadDisplay(
+          "Envio Fallido",
+          `Los datos para la categoria Madrid para la temporada 2022-2023 han fallado`
+        );
+      }
+    )
+
+    console.log('print response', response);
+
+  }
 }

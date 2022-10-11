@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  fbaseApiUrl: 'http://localhost:3002/'
+  fbaseApiUrl: 'http://52.47.37.162:3018/'
 };
 
 /*

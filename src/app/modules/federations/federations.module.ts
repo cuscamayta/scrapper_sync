@@ -22,11 +22,13 @@ import { TooltipModule } from 'primeng/tooltip';
 import { TreeTableModule } from 'primeng/treetable';
 import { FileService } from './services/fileService';
 import { AccordionModule } from 'primeng/accordion';
+import { LoadingComponent } from './components/loading/loading.component';
+import { LoaderService } from './services/loader.service';
 
 
 @NgModule({
-  declarations: [ProfilesComponent, UsersComponent, UsersComponent, MadridComponent, CatalanaComponent],
-  providers: [FederationService, MessageService, FileService],
+  declarations: [ProfilesComponent, UsersComponent, UsersComponent, MadridComponent, CatalanaComponent, LoadingComponent],
+  providers: [FederationService, MessageService, FileService, LoaderService],
   imports: [
     CommonModule,
     FederationsRoutingModule,
